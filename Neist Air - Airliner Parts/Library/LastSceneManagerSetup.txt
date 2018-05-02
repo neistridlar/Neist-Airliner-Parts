@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/NeistAir-AirlinerParts.unity
+  isLoaded: 1
+  isActive: 1
