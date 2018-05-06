@@ -36,6 +36,8 @@ ModelImporter:
     100056: PilotSeat__1_
     100058: WindowsDims
     100060: WindowsDims_001
+    100062: Circle
+    100064: Body_001
     400000: 18CRJ
     400002: //RootNode
     400004: 18CRJ-DepthMask
@@ -67,6 +69,8 @@ ModelImporter:
     400056: PilotSeat__1_
     400058: WindowsDims
     400060: WindowsDims_001
+    400062: Circle
+    400064: Body_001
     2100000: 18CRJ-External
     2100002: PlaceAnywhereFlag
     2100004: WindowsDim
@@ -74,6 +78,8 @@ ModelImporter:
     2100008: DepthMask
     2100010: 18-CRJ-IVA
     2100012: WindowDimInside
+    2100014: 18CRJ-External_001
+    2100016: 18CRJ-IVA-texture
     2300000: 18CRJ-DepthMask_001
     2300002: 18CRJ-FlagPort
     2300004: 18CRJ-FlagStarboard
@@ -90,6 +96,8 @@ ModelImporter:
     2300026: mesh_Ladder_001
     2300028: WindowsDims
     2300030: WindowsDims_001
+    2300032: Circle
+    2300034: Body_001
     3300000: 18CRJ-DepthMask_001
     3300002: 18CRJ-FlagPort
     3300004: 18CRJ-FlagStarboard
@@ -106,6 +114,8 @@ ModelImporter:
     3300026: mesh_Ladder_001
     3300028: WindowsDims
     3300030: WindowsDims_001
+    3300032: Circle
+    3300034: Body_001
     4300000: mesh_Ladder_001
     4300002: mesh_Airlock__1_
     4300004: mesh_Ladder
@@ -122,6 +132,8 @@ ModelImporter:
     4300026: 18CRJ-DepthMask_001
     4300028: 18CRJ-IVA_001
     4300030: WindowsDims
+    4300032: Circle
+    4300034: Body_001
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}

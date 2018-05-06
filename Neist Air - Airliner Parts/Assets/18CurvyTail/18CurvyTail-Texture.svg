@@ -201,7 +201,7 @@
      inkscape:cx="381.83699"
      inkscape:cy="544.79093"
      inkscape:document-units="px"
-     inkscape:current-layer="g11828"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      borderlayer="false"
@@ -265,7 +265,7 @@
      transform="translate(0,-28.362161)"
      sodipodi:insensitive="true">
     <rect
-       style="opacity:1;fill:#b8b6b6;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#b8b6b7;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect11762"
        width="1024"
        height="1024"
@@ -10581,7 +10581,8 @@ QmCC
   <g
      inkscape:label="PanelLines copy"
      id="g11828"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <path
        sodipodi:nodetypes="ccccccccccccccccccccccccc"
        inkscape:connector-curvature="0"

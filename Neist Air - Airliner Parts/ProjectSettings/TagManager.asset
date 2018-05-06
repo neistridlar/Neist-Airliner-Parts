@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Airlock
+  - Ladder
   layers:
   - Default
   - TransparentFX
@@ -21,12 +23,12 @@ TagManager:
   - 
   - 
   - 
+  - Kerbals
   - 
   - 
   - 
-  - 
-  - 
-  - 
+  - Internal Space
+  - Part Triggers
   - 
   - 
   - 

@@ -51,6 +51,7 @@ ModelImporter:
     100086: SeatPassenger__9_
     100088: Seats
     100090: Windows
+    100092: Exterior
     400000: //RootNode
     400002: 18PC-Exterior
     400004: 18PC-interior1_2
@@ -97,6 +98,7 @@ ModelImporter:
     400086: SeatPassenger__9_
     400088: Seats
     400090: Windows
+    400092: Exterior
     2100000: New_Material
     2100002: New_Material_1
     2100004: SeatMaterial
@@ -130,6 +132,7 @@ ModelImporter:
     2300050: SeatPassenger__7_
     2300052: SeatPassenger__8_
     2300054: SeatPassenger__9_
+    2300056: Exterior
     3300000: 18PC-OverlayMask_001
     3300002: BodyMesh
     3300004: BodyMesh_collider
@@ -158,6 +161,7 @@ ModelImporter:
     3300050: SeatPassenger__7_
     3300052: SeatPassenger__8_
     3300054: SeatPassenger__9_
+    3300056: Exterior
     4300000: mesh_InternalWindowCollider__7_
     4300002: mesh_InternalWindowCollider__6_
     4300004: mesh_InternalWindowCollider__5_
@@ -186,11 +190,12 @@ ModelImporter:
     4300050: SeatPassenger
     4300052: BodyMesh
     4300054: BodyMesh_collider
+    4300056: Exterior
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -239,7 +244,7 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 1
   tangentSpace:
-    normalSmoothAngle: 60
+    normalSmoothAngle: 41
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
