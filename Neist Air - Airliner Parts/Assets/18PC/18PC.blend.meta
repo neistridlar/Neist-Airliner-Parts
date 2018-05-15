@@ -52,6 +52,13 @@ ModelImporter:
     100088: Seats
     100090: Windows
     100092: Exterior
+    100094: Floor
+    100096: Interior
+    100098: Interior2
+    100100: Interior3
+    100102: Window
+    100104: Window_001
+    100106: Window2
     400000: //RootNode
     400002: 18PC-Exterior
     400004: 18PC-interior1_2
@@ -99,6 +106,13 @@ ModelImporter:
     400088: Seats
     400090: Windows
     400092: Exterior
+    400094: Floor
+    400096: Interior
+    400098: Interior2
+    400100: Interior3
+    400102: Window
+    400104: Window_001
+    400106: Window2
     2100000: New_Material
     2100002: New_Material_1
     2100004: SeatMaterial
@@ -133,6 +147,13 @@ ModelImporter:
     2300052: SeatPassenger__8_
     2300054: SeatPassenger__9_
     2300056: Exterior
+    2300058: Floor
+    2300060: Interior
+    2300062: Interior2
+    2300064: Interior3
+    2300066: Window
+    2300068: Window_001
+    2300070: Window2
     3300000: 18PC-OverlayMask_001
     3300002: BodyMesh
     3300004: BodyMesh_collider
@@ -162,6 +183,13 @@ ModelImporter:
     3300052: SeatPassenger__8_
     3300054: SeatPassenger__9_
     3300056: Exterior
+    3300058: Floor
+    3300060: Interior
+    3300062: Interior2
+    3300064: Interior3
+    3300066: Window
+    3300068: Window_001
+    3300070: Window2
     4300000: mesh_InternalWindowCollider__7_
     4300002: mesh_InternalWindowCollider__6_
     4300004: mesh_InternalWindowCollider__5_
@@ -191,6 +219,13 @@ ModelImporter:
     4300052: BodyMesh
     4300054: BodyMesh_collider
     4300056: Exterior
+    4300058: Floor
+    4300060: Window
+    4300062: Interior
+    4300064: Interior2
+    4300066: Interior3
+    4300068: Window_001
+    4300070: Window2
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}

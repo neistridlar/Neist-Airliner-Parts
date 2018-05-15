@@ -12,6 +12,15 @@ ModelImporter:
     100008: Cube_001
     100010: SideMountPylon
     100012: SideMountPylonCollider
+    100014: SideMountPylon_001
+    100016: TopMountPylon
+    100018: CF34-8InternalStruts
+    100020: CF34-8LowPoly_001
+    100022: CF34-8LowPoly_002
+    100024: FLAG
+    100026: FLAG_001
+    100028: UnderwingPylon
+    100030: TopMountPylonCollider
     400000: //RootNode
     400002: CF34-8
     400004: CF34-8Collider
@@ -19,25 +28,66 @@ ModelImporter:
     400008: Cube_001
     400010: SideMountPylon
     400012: SideMountPylonCollider
+    400014: SideMountPylon_001
+    400016: TopMountPylon
+    400018: CF34-8InternalStruts
+    400020: CF34-8LowPoly_001
+    400022: CF34-8LowPoly_002
+    400024: FLAG
+    400026: FLAG_001
+    400028: UnderwingPylon
+    400030: TopMountPylonCollider
     2100000: unnamed
+    2100002: None__CheckerBoardFlag_png
+    2100004: None__CheckerBoardFlag_png_001
+    2100006: Material_002__CF34
+    2100008: Material_002
+    2100010: Material_002__CheckerBoardFlag_png
     2300000: CF34-8
     2300002: CF34-8Collider
     2300004: CF34-8LowPoly
     2300006: Cube_001
     2300008: SideMountPylon
     2300010: SideMountPylonCollider
+    2300012: SideMountPylon_001
+    2300014: TopMountPylon
+    2300016: CF34-8InternalStruts
+    2300018: CF34-8LowPoly_001
+    2300020: CF34-8LowPoly_002
+    2300022: FLAG
+    2300024: FLAG_001
+    2300026: UnderwingPylon
+    2300028: TopMountPylonCollider
     3300000: CF34-8
     3300002: CF34-8Collider
     3300004: CF34-8LowPoly
     3300006: Cube_001
     3300008: SideMountPylon
     3300010: SideMountPylonCollider
+    3300012: SideMountPylon_001
+    3300014: TopMountPylon
+    3300016: CF34-8InternalStruts
+    3300018: CF34-8LowPoly_001
+    3300020: CF34-8LowPoly_002
+    3300022: FLAG
+    3300024: FLAG_001
+    3300026: UnderwingPylon
+    3300028: TopMountPylonCollider
     4300000: CF34-8Collider
     4300002: CF34-8LowPoly
     4300004: Cube_001
     4300006: CF34-8
     4300008: SideMountPylonCollider
     4300010: SideMountPylon
+    4300012: TopMountPylon
+    4300014: SideMountPylon_001
+    4300016: CF34-8InternalStruts
+    4300018: CF34-8LowPoly_001
+    4300020: CF34-8LowPoly_002
+    4300022: FLAG
+    4300024: FLAG_001
+    4300026: UnderwingPylon
+    4300028: TopMountPylonCollider
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}

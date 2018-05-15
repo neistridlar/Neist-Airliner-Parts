@@ -12,6 +12,7 @@ ModelImporter:
     400002: 06NCS2
     400004: 06NCS2-Collider
     2100000: unnamed
+    2100002: Material
     2300000: //RootNode
     2300002: 06NCS2
     2300004: 06NCS2-Collider
