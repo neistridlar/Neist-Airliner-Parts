@@ -33,6 +33,8 @@ ModelImporter:
     100050: Body-Collider_014
     100052: Body-Collider_015
     100054: Cylinder
+    100056: PassengerDoor_mergedObject
+    100058: Cylinder_001
     400000: //RootNode
     400002: 18PD-Body
     400004: 18PD-Door
@@ -61,7 +63,12 @@ ModelImporter:
     400050: Body-Collider_014
     400052: Body-Collider_015
     400054: Cylinder
+    400056: PassengerDoor_mergedObject
+    400058: Cylinder_001
     2100000: unnamed
+    2100002: Material__PassengerDoor
+    2100004: zz_TextureAtlas_NO_Material__PassengerDoor
+    2100006: None__PassengerDoor
     2300000: 18PD-Body
     2300002: 18PD-Door
     2300004: 18PD-Door_001
@@ -89,6 +96,8 @@ ModelImporter:
     2300048: Body-Collider_014
     2300050: Body-Collider_015
     2300052: Cylinder
+    2300054: PassengerDoor_mergedObject
+    2300056: Cylinder_001
     3300000: 18PD-Body
     3300002: 18PD-Door
     3300004: 18PD-Door_001
@@ -116,6 +125,8 @@ ModelImporter:
     3300048: Body-Collider_014
     3300050: Body-Collider_015
     3300052: Cylinder
+    3300054: PassengerDoor_mergedObject
+    3300056: Cylinder_001
     4300000: 18PD-Door_001
     4300002: 18PD-Body
     4300004: 18PD-Door
@@ -143,6 +154,8 @@ ModelImporter:
     4300048: Body-Collider_014
     4300050: Body-Collider_015
     4300052: Cylinder
+    4300054: PassengerDoor_mergedObject
+    4300056: Cylinder_001
   externalObjects: {}
   materials:
     importMaterials: 1

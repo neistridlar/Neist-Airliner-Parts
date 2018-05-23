@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: CF34-8
-  m_Shader: {fileID: 4800000, guid: 4eb23d6a8a22cd2408ed28ac1ce15ed3, type: 3}
+  m_Shader: {fileID: 4800000, guid: 440ec76b6cd2107448cec7a61105b099, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -39,7 +39,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 7e2713ae80af6644794a01aebcbb8b7d, type: 3}
+        m_Texture: {fileID: 2800000, guid: 21b930d18a4404549a564e778638fdf0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -68,6 +68,7 @@ Material:
     - _Opacity: 1
     - _Parallax: 0.02
     - _RimFalloff: 0.1
+    - _Shininess: 0.078125
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -75,7 +76,8 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BurnColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Color: {r: 0.75, g: 0.75, b: 0.75, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _RimColor: {r: 0, g: 0, b: 0, a: 0}
+    - _SpecColor: {r: 0.2794118, g: 0.2794118, b: 0.2794118, a: 1}
     - _TemperatureColor: {r: 0, g: 0, b: 0, a: 0}

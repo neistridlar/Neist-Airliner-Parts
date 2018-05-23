@@ -38,6 +38,11 @@ ModelImporter:
     100060: WindowsDims_001
     100062: Circle
     100064: Body_001
+    100066: 18CRJ-Body
+    100068: 18CRJ-Windows
+    100070: 18CRJ-DM2
+    100072: 18CRJ-Collider
+    100074: 18CRJ-Body_001
     400000: 18CRJ
     400002: //RootNode
     400004: 18CRJ-DepthMask
@@ -71,6 +76,11 @@ ModelImporter:
     400060: WindowsDims_001
     400062: Circle
     400064: Body_001
+    400066: 18CRJ-Body
+    400068: 18CRJ-Windows
+    400070: 18CRJ-DM2
+    400072: 18CRJ-Collider
+    400074: 18CRJ-Body_001
     2100000: 18CRJ-External
     2100002: PlaceAnywhereFlag
     2100004: WindowsDim
@@ -80,6 +90,7 @@ ModelImporter:
     2100012: WindowDimInside
     2100014: 18CRJ-External_001
     2100016: 18CRJ-IVA-texture
+    2100018: 18CRJ-External_002
     2300000: 18CRJ-DepthMask_001
     2300002: 18CRJ-FlagPort
     2300004: 18CRJ-FlagStarboard
@@ -98,6 +109,13 @@ ModelImporter:
     2300030: WindowsDims_001
     2300032: Circle
     2300034: Body_001
+    2300036: 18CRJ-DepthMask
+    2300038: 18CRJ-IVA
+    2300040: 18CRJ-Body
+    2300042: 18CRJ-Windows
+    2300044: 18CRJ-DM2
+    2300046: 18CRJ-Collider
+    2300048: 18CRJ-Body_001
     3300000: 18CRJ-DepthMask_001
     3300002: 18CRJ-FlagPort
     3300004: 18CRJ-FlagStarboard
@@ -116,6 +134,13 @@ ModelImporter:
     3300030: WindowsDims_001
     3300032: Circle
     3300034: Body_001
+    3300036: 18CRJ-DepthMask
+    3300038: 18CRJ-IVA
+    3300040: 18CRJ-Body
+    3300042: 18CRJ-Windows
+    3300044: 18CRJ-DM2
+    3300046: 18CRJ-Collider
+    3300048: 18CRJ-Body_001
     4300000: mesh_Ladder_001
     4300002: mesh_Airlock__1_
     4300004: mesh_Ladder
@@ -134,6 +159,13 @@ ModelImporter:
     4300030: WindowsDims
     4300032: Circle
     4300034: Body_001
+    4300036: 18CRJ-DepthMask
+    4300038: 18CRJ-IVA
+    4300040: 18CRJ-Body
+    4300042: 18CRJ-Windows
+    4300044: 18CRJ-DM2
+    4300046: 18CRJ-Collider
+    4300048: 18CRJ-Body_001
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}

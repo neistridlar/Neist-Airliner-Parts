@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 676b928979aad9740bb1ebfe71de628e
+timeCreated: 1526831361
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Antenna_Extend
+    100002: Antenna_Ring
+    100004: Base
+    100006: Colliders
+    100008: Dish_Rotate
+    100010: Dish_Rotate 1
+    100012: LEM_Ascent_Antenna1
+    100014: LEM_Ascent_Antenna2
+    100016: LEM_Ascent_Antenna3
+    100018: LEM_Ascent_Antenna3_copy
+    100020: LEM_Ascent_Antenna5
+    100022: //RootNode
+    100024: LEM_Ascent_Cockpit1
+    100026: LEM_Ascent_Cockpit_Collider_A
+    100028: LEM_Ascent_Cockpit_Collider_B
+    100030: LEM_Ascent_Cockpit_Collider_C
+    100032: LEM_Ascent_Cockpit_Collider_D
+    100034: LEM_Ascent_Cockpit_Collider_E
+    100036: LEM_Ascent_Cockpit_Collider_F
+    100038: LEM_Ascent_Cockpit_Collider_G
+    100040: LEM_Ascent_Cockpit_Collider_H
+    100042: LEM_Ascent_Cockpit_Collider_I
+    100044: LEM_Ascent_Cockpit_Collider_J
+    100046: LEM_Ascent_Cockpit_Collider_K
+    100048: LEM_Ascent_Cockpit_Collider_L
+    100050: LEM_Ascent_Cockpit_Collider_M
+    100052: LEM_Ascent_Cockpit_CrewTube
+    100054: LEM_Ascent_Cockpit_LEM_Ascent_Antenna2_Dish_Rotate_null2_null5
+    100056: LEM_Ascent_Cockpit_LEM_Ascent_Antenna2_group105
+    100058: LEM_Ascent_Cockpit_LEM_Ascent_Antenna3_null9
+    100060: LEM_Ascent_Cockpit_LEM_Ascent_Antenna3_null9 1
+    100062: LEM_Ascent_Cockpit_LEM_Ascent_Antenna3_pCylinder72
+    100064: LEM_Ascent_Cockpit_LEM_Ascent_Antenna3_pCylinder72 1
+    100066: LEM_Ascent_Cockpit_LEM_Ascent_Antenna5_Dish_Rotate_LEM_Sband_Gimballed
+    100068: LEM_Ascent_Cockpit_Windows
+    100070: pCube167
+    100072: pCylinder114
+    100074: pCylinder97
+    100076: pCylinder98
+    100078: RCSQuad1
+    100080: RCSQuad2
+    100082: RCSQuad3
+    100084: RCSQuad4
+    100086: rcsTransform
+    100088: rcsTransform1
+    100090: rcsTransform10
+    100092: rcsTransform11
+    100094: rcsTransform12
+    100096: rcsTransform13
+    100098: rcsTransform14
+    100100: rcsTransform15
+    100102: rcsTransform2
+    100104: rcsTransform3
+    100106: rcsTransform4
+    100108: rcsTransform5
+    100110: rcsTransform6
+    100112: rcsTransform7
+    100114: rcsTransform8
+    100116: rcsTransform9
+    100118: Ring
+    100120: Whip
+    400000: Antenna_Extend
+    400002: Antenna_Ring
+    400004: Base
+    400006: Colliders
+    400008: Dish_Rotate
+    400010: Dish_Rotate 1
+    400012: LEM_Ascent_Antenna1
+    400014: LEM_Ascent_Antenna2
+    400016: LEM_Ascent_Antenna3
+    400018: LEM_Ascent_Antenna3_copy
+    400020: LEM_Ascent_Antenna5
+    400022: //RootNode
+    400024: LEM_Ascent_Cockpit1
+    400026: LEM_Ascent_Cockpit_Collider_A
+    400028: LEM_Ascent_Cockpit_Collider_B
+    400030: LEM_Ascent_Cockpit_Collider_C
+    400032: LEM_Ascent_Cockpit_Collider_D
+    400034: LEM_Ascent_Cockpit_Collider_E
+    400036: LEM_Ascent_Cockpit_Collider_F
+    400038: LEM_Ascent_Cockpit_Collider_G
+    400040: LEM_Ascent_Cockpit_Collider_H
+    400042: LEM_Ascent_Cockpit_Collider_I
+    400044: LEM_Ascent_Cockpit_Collider_J
+    400046: LEM_Ascent_Cockpit_Collider_K
+    400048: LEM_Ascent_Cockpit_Collider_L
+    400050: LEM_Ascent_Cockpit_Collider_M
+    400052: LEM_Ascent_Cockpit_CrewTube
+    400054: LEM_Ascent_Cockpit_LEM_Ascent_Antenna2_Dish_Rotate_null2_null5
+    400056: LEM_Ascent_Cockpit_LEM_Ascent_Antenna2_group105
+    400058: LEM_Ascent_Cockpit_LEM_Ascent_Antenna3_null9
+    400060: LEM_Ascent_Cockpit_LEM_Ascent_Antenna3_null9 1
+    400062: LEM_Ascent_Cockpit_LEM_Ascent_Antenna3_pCylinder72
+    400064: LEM_Ascent_Cockpit_LEM_Ascent_Antenna3_pCylinder72 1
+    400066: LEM_Ascent_Cockpit_LEM_Ascent_Antenna5_Dish_Rotate_LEM_Sband_Gimballed
+    400068: LEM_Ascent_Cockpit_Windows
+    400070: pCube167
+    400072: pCylinder114
+    400074: pCylinder97
+    400076: pCylinder98
+    400078: RCSQuad1
+    400080: RCSQuad2
+    400082: RCSQuad3
+    400084: RCSQuad4
+    400086: rcsTransform
+    400088: rcsTransform1
+    400090: rcsTransform10
+    400092: rcsTransform11
+    400094: rcsTransform12
+    400096: rcsTransform13
+    400098: rcsTransform14
+    400100: rcsTransform15
+    400102: rcsTransform2
+    400104: rcsTransform3
+    400106: rcsTransform4
+    400108: rcsTransform5
+    400110: rcsTransform6
+    400112: rcsTransform7
+    400114: rcsTransform8
+    400116: rcsTransform9
+    400118: Ring
+    400120: Whip
+    2100000: lambert6
+    2300000: Base
+    2300002: LEM_Ascent_Cockpit1
+    2300004: LEM_Ascent_Cockpit_Collider_A
+    2300006: LEM_Ascent_Cockpit_Collider_B
+    2300008: LEM_Ascent_Cockpit_Collider_C
+    2300010: LEM_Ascent_Cockpit_Collider_D
+    2300012: LEM_Ascent_Cockpit_Collider_E
+    2300014: LEM_Ascent_Cockpit_Collider_F
+    2300016: LEM_Ascent_Cockpit_Collider_G
+    2300018: LEM_Ascent_Cockpit_Collider_H
+    2300020: LEM_Ascent_Cockpit_Collider_I
+    2300022: LEM_Ascent_Cockpit_Collider_J
+    2300024: LEM_Ascent_Cockpit_Collider_K
+    2300026: LEM_Ascent_Cockpit_Collider_L
+    2300028: LEM_Ascent_Cockpit_Collider_M
+    2300030: LEM_Ascent_Cockpit_CrewTube
+    2300032: LEM_Ascent_Cockpit_LEM_Ascent_Antenna2_Dish_Rotate_null2_null5
+    2300034: LEM_Ascent_Cockpit_LEM_Ascent_Antenna2_group105
+    2300036: LEM_Ascent_Cockpit_LEM_Ascent_Antenna3_null9
+    2300038: LEM_Ascent_Cockpit_LEM_Ascent_Antenna3_null9 1
+    2300040: LEM_Ascent_Cockpit_LEM_Ascent_Antenna3_pCylinder72
+    2300042: LEM_Ascent_Cockpit_LEM_Ascent_Antenna3_pCylinder72 1
+    2300044: LEM_Ascent_Cockpit_LEM_Ascent_Antenna5_Dish_Rotate_LEM_Sband_Gimballed
+    2300046: LEM_Ascent_Cockpit_Windows
+    2300048: pCube167
+    2300050: pCylinder114
+    2300052: pCylinder97
+    2300054: pCylinder98
+    2300056: Ring
+    2300058: Whip
+    3300000: Base
+    3300002: LEM_Ascent_Cockpit1
+    3300004: LEM_Ascent_Cockpit_Collider_A
+    3300006: LEM_Ascent_Cockpit_Collider_B
+    3300008: LEM_Ascent_Cockpit_Collider_C
+    3300010: LEM_Ascent_Cockpit_Collider_D
+    3300012: LEM_Ascent_Cockpit_Collider_E
+    3300014: LEM_Ascent_Cockpit_Collider_F
+    3300016: LEM_Ascent_Cockpit_Collider_G
+    3300018: LEM_Ascent_Cockpit_Collider_H
+    3300020: LEM_Ascent_Cockpit_Collider_I
+    3300022: LEM_Ascent_Cockpit_Collider_J
+    3300024: LEM_Ascent_Cockpit_Collider_K
+    3300026: LEM_Ascent_Cockpit_Collider_L
+    3300028: LEM_Ascent_Cockpit_Collider_M
+    3300030: LEM_Ascent_Cockpit_CrewTube
+    3300032: LEM_Ascent_Cockpit_LEM_Ascent_Antenna2_Dish_Rotate_null2_null5
+    3300034: LEM_Ascent_Cockpit_LEM_Ascent_Antenna2_group105
+    3300036: LEM_Ascent_Cockpit_LEM_Ascent_Antenna3_null9
+    3300038: LEM_Ascent_Cockpit_LEM_Ascent_Antenna3_null9 1
+    3300040: LEM_Ascent_Cockpit_LEM_Ascent_Antenna3_pCylinder72
+    3300042: LEM_Ascent_Cockpit_LEM_Ascent_Antenna3_pCylinder72 1
+    3300044: LEM_Ascent_Cockpit_LEM_Ascent_Antenna5_Dish_Rotate_LEM_Sband_Gimballed
+    3300046: LEM_Ascent_Cockpit_Windows
+    3300048: pCube167
+    3300050: pCylinder114
+    3300052: pCylinder97
+    3300054: pCylinder98
+    3300056: Ring
+    3300058: Whip
+    4300000: LEM_Ascent_Cockpit_LEM_Ascent_Antenna2_Dish_Rotate_null2_null5
+    4300002: LEM_Ascent_Cockpit_LEM_Ascent_Antenna2_group105
+    4300004: LEM_Ascent_Cockpit_LEM_Ascent_Antenna3_null9
+    4300006: LEM_Ascent_Cockpit_LEM_Ascent_Antenna3_pCylinder72
+    4300008: LEM_Ascent_Cockpit_LEM_Ascent_Antenna5_Dish_Rotate_LEM_Sband_Gimballed
+    4300010: Base
+    4300012: Whip
+    4300014: Ring
+    4300016: LEM_Ascent_Cockpit_Windows
+    4300018: LEM_Ascent_Cockpit1
+    4300020: LEM_Ascent_Cockpit_CrewTube
+    4300022: LEM_Ascent_Cockpit_LEM_Ascent_Antenna3_null9
+    4300024: LEM_Ascent_Cockpit_LEM_Ascent_Antenna3_pCylinder72
+    4300026: LEM_Ascent_Cockpit_Collider_A
+    4300028: LEM_Ascent_Cockpit_Collider_B
+    4300030: LEM_Ascent_Cockpit_Collider_C
+    4300032: LEM_Ascent_Cockpit_Collider_D
+    4300034: LEM_Ascent_Cockpit_Collider_E
+    4300036: LEM_Ascent_Cockpit_Collider_F
+    4300038: LEM_Ascent_Cockpit_Collider_G
+    4300040: LEM_Ascent_Cockpit_Collider_H
+    4300042: LEM_Ascent_Cockpit_Collider_I
+    4300044: LEM_Ascent_Cockpit_Collider_J
+    4300046: LEM_Ascent_Cockpit_Collider_K
+    4300048: LEM_Ascent_Cockpit_Collider_L
+    4300050: LEM_Ascent_Cockpit_Collider_M
+    4300052: pCylinder97
+    4300054: pCube167
+    4300056: pCylinder98
+    4300058: pCylinder114
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

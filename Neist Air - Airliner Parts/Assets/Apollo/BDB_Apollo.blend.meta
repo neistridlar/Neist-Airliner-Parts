@@ -40,6 +40,48 @@ ModelImporter:
     100064: body_2_005
     100066: Armature
     100068: DepthMask
+    100070: BDB_Apollo2
+    100072: Apollo
+    100074: Apollo_Capsule_Redux
+    100076: Block2_Capsule
+    100078: group143
+    100080: group144
+    100082: group145
+    100084: group146
+    100086: group147
+    100088: group148
+    100090: group149
+    100092: Mesh
+    100094: pCube61
+    100096: pCube62
+    100098: pCube63
+    100100: pCube63 1
+    100102: pCube63 2
+    100104: pCube63 3
+    100106: pCylinder150
+    100108: pCylinder151
+    100110: pCylinder152
+    100112: pCylinder153
+    100114: polySurface163
+    100116: Axle
+    100118: Crossbar
+    100120: PistonBracket
+    100122: PistonBracket_001
+    100124: PistonBracket_002
+    100126: Pistons
+    100128: Pistons_001
+    100130: Pistons_002
+    100132: InstrumentPanels
+    100134: InstrumentPanels_001
+    100136: ZigZag
+    100138: AdditionalCouches
+    100140: Crossbar_001
+    100142: MainCouches
+    100144: PistonBracket_003
+    100146: PistonBracket_004
+    100148: PistonBracket_005
+    100150: PistonBracket_006
+    100152: Pistons_003
     400000: //RootNode
     400002: BDB_Apollo-IVA
     400004: body_2_000
@@ -75,6 +117,48 @@ ModelImporter:
     400064: body_2_005
     400066: Armature
     400068: DepthMask
+    400070: BDB_Apollo2
+    400072: Apollo
+    400074: Apollo_Capsule_Redux
+    400076: Block2_Capsule
+    400078: group143
+    400080: group144
+    400082: group145
+    400084: group146
+    400086: group147
+    400088: group148
+    400090: group149
+    400092: Mesh
+    400094: pCube61
+    400096: pCube62
+    400098: pCube63
+    400100: pCube63 1
+    400102: pCube63 2
+    400104: pCube63 3
+    400106: pCylinder150
+    400108: pCylinder151
+    400110: pCylinder152
+    400112: pCylinder153
+    400114: polySurface163
+    400116: Axle
+    400118: Crossbar
+    400120: PistonBracket
+    400122: PistonBracket_001
+    400124: PistonBracket_002
+    400126: Pistons
+    400128: Pistons_001
+    400130: Pistons_002
+    400132: InstrumentPanels
+    400134: InstrumentPanels_001
+    400136: ZigZag
+    400138: AdditionalCouches
+    400140: Crossbar_001
+    400142: MainCouches
+    400144: PistonBracket_003
+    400146: PistonBracket_004
+    400148: PistonBracket_005
+    400150: PistonBracket_006
+    400152: Pistons_003
     2100000: unnamed
     2100002: couchTexture_005__csmTexture_png_005
     2100004: couchTexture_005
@@ -91,6 +175,20 @@ ModelImporter:
     2100026: Material__kerbalHead_png_001
     2100028: Material__dummy_kerbalEyeball_png_001
     2100030: Material__dummy_kerbalPupil_png_001
+    2100032: TT_checker_512x512_UV_GRID
+    2100034: TT_checker_512x512_COLOR_GRID
+    2100036: bluedog_StructuralTop
+    2100038: bluedog_Apollo_Capsule_New
+    2100040: TT_checker_512x512_UV_GRID_001
+    2100042: TT_checker_512x512_UV_GRID_002
+    2100044: TT_checker_512x512_COLOR_GRID__Apolli-IVA-main
+    2100046: InstrumentPanel
+    2100048: couchTexture_005__Apolli-IVA-main
+    2100050: couchTexture_001__Apolli-IVA-main
+    2100052: couchTexture_000__Apolli-IVA-main
+    2100054: None__Apolli-IVA-main
+    2100056: TT_checker_1024x1024_COLOR_GRID__Apolli-IVA-main
+    2100058: Exterior
     2300000: BDB_Apollo-IVA
     2300002: body_2_000
     2300004: body_2_001
@@ -125,6 +223,36 @@ ModelImporter:
     2300062: body_2_005
     2300064: Armature
     2300066: DepthMask
+    2300068: BDB_Apollo2
+    2300070: Mesh
+    2300072: pCube61
+    2300074: pCube62
+    2300076: pCube63
+    2300078: pCube63 1
+    2300080: pCube63 2
+    2300082: pCube63 3
+    2300084: pCylinder150
+    2300086: pCylinder151
+    2300088: pCylinder152
+    2300090: pCylinder153
+    2300092: polySurface163
+    2300094: Axle
+    2300096: Crossbar
+    2300098: PistonBracket
+    2300100: PistonBracket_001
+    2300102: PistonBracket_002
+    2300104: Pistons
+    2300106: Pistons_001
+    2300108: Pistons_002
+    2300110: InstrumentPanels
+    2300112: InstrumentPanels_001
+    2300114: ZigZag
+    2300116: Crossbar_001
+    2300118: PistonBracket_003
+    2300120: PistonBracket_004
+    2300122: PistonBracket_005
+    2300124: PistonBracket_006
+    2300126: Pistons_003
     3300000: BDB_Apollo-IVA
     3300002: body_2_000
     3300004: body_2_001
@@ -159,6 +287,36 @@ ModelImporter:
     3300062: body_2_005
     3300064: Armature
     3300066: DepthMask
+    3300068: BDB_Apollo2
+    3300070: Mesh
+    3300072: pCube61
+    3300074: pCube62
+    3300076: pCube63
+    3300078: pCube63 1
+    3300080: pCube63 2
+    3300082: pCube63 3
+    3300084: pCylinder150
+    3300086: pCylinder151
+    3300088: pCylinder152
+    3300090: pCylinder153
+    3300092: polySurface163
+    3300094: Axle
+    3300096: Crossbar
+    3300098: PistonBracket
+    3300100: PistonBracket_001
+    3300102: PistonBracket_002
+    3300104: Pistons
+    3300106: Pistons_001
+    3300108: Pistons_002
+    3300110: InstrumentPanels
+    3300112: InstrumentPanels_001
+    3300114: ZigZag
+    3300116: Crossbar_001
+    3300118: PistonBracket_003
+    3300120: PistonBracket_004
+    3300122: PistonBracket_005
+    3300124: PistonBracket_006
+    3300126: Pistons_003
     4300000: Cylinder_005
     4300002: Cylinder_004
     4300004: Cylinder_003
@@ -193,6 +351,36 @@ ModelImporter:
     4300062: body_2_004
     4300064: Armature
     4300066: DepthMask
+    4300068: BDB_Apollo2
+    4300070: Mesh
+    4300072: polySurface163
+    4300074: pCube63
+    4300076: pCylinder153
+    4300078: pCylinder152
+    4300080: pCube63
+    4300082: pCube63
+    4300084: pCube63
+    4300086: pCylinder151
+    4300088: pCube62
+    4300090: pCylinder150
+    4300092: pCube61
+    4300094: PistonBracket
+    4300096: Axle
+    4300098: Crossbar
+    4300100: Pistons
+    4300102: Pistons_001
+    4300104: PistonBracket_001
+    4300106: PistonBracket_002
+    4300108: Pistons_002
+    4300110: InstrumentPanels
+    4300112: InstrumentPanels_001
+    4300114: ZigZag
+    4300116: PistonBracket_003
+    4300118: PistonBracket_004
+    4300120: PistonBracket_005
+    4300122: PistonBracket_006
+    4300124: Pistons_003
+    4300126: Crossbar_001
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}

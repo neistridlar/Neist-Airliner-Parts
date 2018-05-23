@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 91140e0f609665b49af4464ccfaa5981
+timeCreated: 1526760101
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ManateeCargoBayV2BrakeAppart
+    100002: ManateeCargoDoorHindgeRBottom
+    100004: ManateeCargoDoorHindgeRTop
+    100006: ManateeCargoDoorL
+    100008: ManateeCargoDoorL_collider
+    100010: ManateeCargoDoorR
+    100012: ManateeCargoDoorR_collider
+    100014: ManateeCargoHindgeLBottom
+    100016: ManateeCargoHindgeLTop
+    100018: ManateeCargoPodInsideLeft
+    100020: ManateeCargoPodInsideRight
+    100022: ManateeCargoPodInsideTop
+    100024: ManateeCargoPodOutsideBackwall
+    100026: ManateeCargoPodOutsideBottom
+    100028: //RootNode
+    400000: ManateeCargoBayV2BrakeAppart
+    400002: ManateeCargoDoorHindgeRBottom
+    400004: ManateeCargoDoorHindgeRTop
+    400006: ManateeCargoDoorL
+    400008: ManateeCargoDoorL_collider
+    400010: ManateeCargoDoorR
+    400012: ManateeCargoDoorR_collider
+    400014: ManateeCargoHindgeLBottom
+    400016: ManateeCargoHindgeLTop
+    400018: ManateeCargoPodInsideLeft
+    400020: ManateeCargoPodInsideRight
+    400022: ManateeCargoPodInsideTop
+    400024: ManateeCargoPodOutsideBackwall
+    400026: ManateeCargoPodOutsideBottom
+    400028: //RootNode
+    2100000: unnamed_0
+    2100002: unnamed
+    2300000: ManateeCargoDoorHindgeRBottom
+    2300002: ManateeCargoDoorHindgeRTop
+    2300004: ManateeCargoDoorL
+    2300006: ManateeCargoDoorL_collider
+    2300008: ManateeCargoDoorR
+    2300010: ManateeCargoDoorR_collider
+    2300012: ManateeCargoHindgeLBottom
+    2300014: ManateeCargoHindgeLTop
+    2300016: ManateeCargoPodInsideLeft
+    2300018: ManateeCargoPodInsideRight
+    2300020: ManateeCargoPodInsideTop
+    2300022: ManateeCargoPodOutsideBackwall
+    2300024: ManateeCargoPodOutsideBottom
+    3300000: ManateeCargoDoorHindgeRBottom
+    3300002: ManateeCargoDoorHindgeRTop
+    3300004: ManateeCargoDoorL
+    3300006: ManateeCargoDoorL_collider
+    3300008: ManateeCargoDoorR
+    3300010: ManateeCargoDoorR_collider
+    3300012: ManateeCargoHindgeLBottom
+    3300014: ManateeCargoHindgeLTop
+    3300016: ManateeCargoPodInsideLeft
+    3300018: ManateeCargoPodInsideRight
+    3300020: ManateeCargoPodInsideTop
+    3300022: ManateeCargoPodOutsideBackwall
+    3300024: ManateeCargoPodOutsideBottom
+    4300000: ManateeCargoPodOutsideBottom
+    4300002: ManateeCargoPodOutsideBackwall
+    4300004: ManateeCargoPodInsideTop
+    4300006: ManateeCargoPodInsideRight
+    4300008: ManateeCargoPodInsideLeft
+    4300010: ManateeCargoHindgeLTop
+    4300012: ManateeCargoHindgeLBottom
+    4300014: ManateeCargoDoorL
+    4300016: ManateeCargoDoorL_collider
+    4300018: ManateeCargoDoorHindgeRTop
+    4300020: ManateeCargoDoorR
+    4300022: ManateeCargoDoorR_collider
+    4300024: ManateeCargoDoorHindgeRBottom
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

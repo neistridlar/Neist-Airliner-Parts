@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 867e0ce1acd812843802ab695d406a08
+timeCreated: 1526831479
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Apollo_Capsule_Redux_NewCapsule
+    100002: Apollo_Capsule_Redux_NewCapsule_group143_pCylinder151
+    100004: Apollo_Capsule_Redux_NewCapsule_group143_pCylinder151_pCube62
+    100006: Apollo_Capsule_Redux_NewCapsule_pCube63_group144
+    100008: Apollo_Capsule_Redux_NewCapsule_pCube63_group145
+    100010: Apollo_Capsule_Redux_NewCapsule_pCube63_group146
+    100012: Apollo_Capsule_Redux_NewCapsule_pCube63_group149
+    100014: Apollo_Capsule_Redux_NewCapsule_pCylinder150_group143
+    100016: Apollo_Capsule_Redux_NewCapsule_pCylinder150_group143_pCube61
+    100018: Apollo_Capsule_Redux_NewCapsule_pCylinder152_group147
+    100020: Apollo_Capsule_Redux_NewCapsule_pCylinder153_group148
+    100022: //RootNode
+    400000: Apollo_Capsule_Redux_NewCapsule
+    400002: Apollo_Capsule_Redux_NewCapsule_group143_pCylinder151
+    400004: Apollo_Capsule_Redux_NewCapsule_group143_pCylinder151_pCube62
+    400006: Apollo_Capsule_Redux_NewCapsule_pCube63_group144
+    400008: Apollo_Capsule_Redux_NewCapsule_pCube63_group145
+    400010: Apollo_Capsule_Redux_NewCapsule_pCube63_group146
+    400012: Apollo_Capsule_Redux_NewCapsule_pCube63_group149
+    400014: Apollo_Capsule_Redux_NewCapsule_pCylinder150_group143
+    400016: Apollo_Capsule_Redux_NewCapsule_pCylinder150_group143_pCube61
+    400018: Apollo_Capsule_Redux_NewCapsule_pCylinder152_group147
+    400020: Apollo_Capsule_Redux_NewCapsule_pCylinder153_group148
+    400022: //RootNode
+    2100000: Apollo_Capsule_Redux_NewCapsuleMat
+    2100002: Apollo_Capsule_Redux_NewCapsule_group143_pCylinder151Mat
+    2100004: Apollo_Capsule_Redux_NewCapsule_group143_pCylinder151_pCube62Mat
+    2100006: Apollo_Capsule_Redux_NewCapsule_pCube63_group144Mat
+    2100008: Apollo_Capsule_Redux_NewCapsule_pCube63_group145Mat
+    2100010: Apollo_Capsule_Redux_NewCapsule_pCube63_group146Mat
+    2100012: Apollo_Capsule_Redux_NewCapsule_pCube63_group149Mat
+    2100014: Apollo_Capsule_Redux_NewCapsule_pCylinder150_group143Mat
+    2100016: Apollo_Capsule_Redux_NewCapsule_pCylinder150_group143_pCube61Mat
+    2100018: Apollo_Capsule_Redux_NewCapsule_pCylinder152_group147Mat
+    2100020: Apollo_Capsule_Redux_NewCapsule_pCylinder153_group148Mat
+    2300000: Apollo_Capsule_Redux_NewCapsule
+    2300002: Apollo_Capsule_Redux_NewCapsule_group143_pCylinder151
+    2300004: Apollo_Capsule_Redux_NewCapsule_group143_pCylinder151_pCube62
+    2300006: Apollo_Capsule_Redux_NewCapsule_pCube63_group144
+    2300008: Apollo_Capsule_Redux_NewCapsule_pCube63_group145
+    2300010: Apollo_Capsule_Redux_NewCapsule_pCube63_group146
+    2300012: Apollo_Capsule_Redux_NewCapsule_pCube63_group149
+    2300014: Apollo_Capsule_Redux_NewCapsule_pCylinder150_group143
+    2300016: Apollo_Capsule_Redux_NewCapsule_pCylinder150_group143_pCube61
+    2300018: Apollo_Capsule_Redux_NewCapsule_pCylinder152_group147
+    2300020: Apollo_Capsule_Redux_NewCapsule_pCylinder153_group148
+    3300000: Apollo_Capsule_Redux_NewCapsule
+    3300002: Apollo_Capsule_Redux_NewCapsule_group143_pCylinder151
+    3300004: Apollo_Capsule_Redux_NewCapsule_group143_pCylinder151_pCube62
+    3300006: Apollo_Capsule_Redux_NewCapsule_pCube63_group144
+    3300008: Apollo_Capsule_Redux_NewCapsule_pCube63_group145
+    3300010: Apollo_Capsule_Redux_NewCapsule_pCube63_group146
+    3300012: Apollo_Capsule_Redux_NewCapsule_pCube63_group149
+    3300014: Apollo_Capsule_Redux_NewCapsule_pCylinder150_group143
+    3300016: Apollo_Capsule_Redux_NewCapsule_pCylinder150_group143_pCube61
+    3300018: Apollo_Capsule_Redux_NewCapsule_pCylinder152_group147
+    3300020: Apollo_Capsule_Redux_NewCapsule_pCylinder153_group148
+    4300000: Apollo_Capsule_Redux_NewCapsule
+    4300002: Apollo_Capsule_Redux_NewCapsule_group143_pCylinder151
+    4300004: Apollo_Capsule_Redux_NewCapsule_group143_pCylinder151_pCube62
+    4300006: Apollo_Capsule_Redux_NewCapsule_pCube63_group144
+    4300008: Apollo_Capsule_Redux_NewCapsule_pCube63_group145
+    4300010: Apollo_Capsule_Redux_NewCapsule_pCube63_group146
+    4300012: Apollo_Capsule_Redux_NewCapsule_pCube63_group149
+    4300014: Apollo_Capsule_Redux_NewCapsule_pCylinder150_group143
+    4300016: Apollo_Capsule_Redux_NewCapsule_pCylinder150_group143_pCube61
+    4300018: Apollo_Capsule_Redux_NewCapsule_pCylinder152_group147
+    4300020: Apollo_Capsule_Redux_NewCapsule_pCylinder153_group148
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

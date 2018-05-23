@@ -11,6 +11,7 @@ ModelImporter:
     2100002: Material__kerbalHead_png_001
     2100004: Material__dummy_kerbalEyeball_png_001
     2100006: Material__dummy_kerbalPupil_png_001
+    2100008: Material
     2300000: //RootNode
     3300000: //RootNode
     4300000: Kerbal
