@@ -1,11 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neist Air - Airliner Parts", "Neist Air - Airliner Parts.csproj", "{158C20AC-1A58-B150-2BEE-3BD65E3B9F77}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neist Air - Airliner Parts", "Assembly-CSharp.csproj", "{8017D066-2FD3-E71A-999E-4D9DE2E705E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neist Air - Airliner Parts.Plugins", "Neist Air - Airliner Parts.Plugins.csproj", "{AF917CD7-9B83-C01E-1B22-B8CD758BC1E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neist Air - Airliner Parts", "Assembly-CSharp-firstpass.csproj", "{D9087845-97CD-AA24-1D9E-E934B34524DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neist Air - Airliner Parts.Editor", "Neist Air - Airliner Parts.Editor.csproj", "{FD45488F-ED2C-0077-B56A-75BB73246606}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neist Air - Airliner Parts", "Assembly-CSharp-Editor.csproj", "{AE4A5FAC-03FC-7586-FE92-8A37BF734279}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,20 +13,23 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{158C20AC-1A58-B150-2BEE-3BD65E3B9F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{158C20AC-1A58-B150-2BEE-3BD65E3B9F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{158C20AC-1A58-B150-2BEE-3BD65E3B9F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{158C20AC-1A58-B150-2BEE-3BD65E3B9F77}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AF917CD7-9B83-C01E-1B22-B8CD758BC1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AF917CD7-9B83-C01E-1B22-B8CD758BC1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AF917CD7-9B83-C01E-1B22-B8CD758BC1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AF917CD7-9B83-C01E-1B22-B8CD758BC1E5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FD45488F-ED2C-0077-B56A-75BB73246606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FD45488F-ED2C-0077-B56A-75BB73246606}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FD45488F-ED2C-0077-B56A-75BB73246606}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FD45488F-ED2C-0077-B56A-75BB73246606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8017D066-2FD3-E71A-999E-4D9DE2E705E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8017D066-2FD3-E71A-999E-4D9DE2E705E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8017D066-2FD3-E71A-999E-4D9DE2E705E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8017D066-2FD3-E71A-999E-4D9DE2E705E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9087845-97CD-AA24-1D9E-E934B34524DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9087845-97CD-AA24-1D9E-E934B34524DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9087845-97CD-AA24-1D9E-E934B34524DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9087845-97CD-AA24-1D9E-E934B34524DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE4A5FAC-03FC-7586-FE92-8A37BF734279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4A5FAC-03FC-7586-FE92-8A37BF734279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4A5FAC-03FC-7586-FE92-8A37BF734279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4A5FAC-03FC-7586-FE92-8A37BF734279}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
