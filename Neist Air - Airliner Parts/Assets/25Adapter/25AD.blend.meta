@@ -13,6 +13,11 @@ ModelImporter:
     100010: 25-37AD
     100012: //RootNode
     100014: 25AD_mergedObject
+    100016: 31-37AD
+    100018: 31-37AD-Collider
+    100020: 25-31-2
+    100022: 25-31-2AD
+    100024: 25-31-2Collider
     400000: 25-31
     400002: 25-31-Colliders
     400004: 25-31AD
@@ -21,6 +26,11 @@ ModelImporter:
     400010: 25-37AD
     400012: //RootNode
     400014: 25AD_mergedObject
+    400016: 31-37AD
+    400018: 31-37AD-Collider
+    400020: 25-31-2
+    400022: 25-31-2AD
+    400024: 25-31-2Collider
     2100000: Material__25AD
     2100002: unnamed
     2300000: 25-31
@@ -30,6 +40,11 @@ ModelImporter:
     2300008: 25-37-Colliders
     2300010: 25-37AD
     2300012: 25AD_mergedObject
+    2300014: 31-37AD
+    2300016: 31-37AD-Collider
+    2300018: 25-31-2
+    2300020: 25-31-2AD
+    2300022: 25-31-2Collider
     3300000: 25-31
     3300002: 25-31-Colliders
     3300004: 25-31AD
@@ -37,6 +52,11 @@ ModelImporter:
     3300008: 25-37-Colliders
     3300010: 25-37AD
     3300012: 25AD_mergedObject
+    3300014: 31-37AD
+    3300016: 31-37AD-Collider
+    3300018: 25-31-2
+    3300020: 25-31-2AD
+    3300022: 25-31-2Collider
     4300000: 25AD_mergedObject
     4300002: 25-37-Colliders
     4300004: 25-37AD
@@ -44,6 +64,11 @@ ModelImporter:
     4300008: 25-31AD
     4300010: 25-31
     4300012: 25-31-Colliders
+    4300014: 31-37AD
+    4300016: 31-37AD-Collider
+    4300018: 25-31-2AD
+    4300020: 25-31-2
+    4300022: 25-31-2Collider
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}

@@ -9,21 +9,89 @@ ModelImporter:
     100002: 12NCS-Collider
     100004: 12NCS-Hires
     100006: 12NCS-Lores
+    100008: 12NCS--B76
+    100010: 12NCS-A35
+    100012: 12NCS-A35Collider
+    100014: 12NCS-AN-24
+    100016: 12NCS-AN-24Collider
+    100018: 12NCS-B76-Collider
+    100020: 12NCS-DC3
+    100022: 12NCS-DC3-Collider
+    100024: stl-35
+    100026: stl-76
+    100028: stl-AN-24
+    100030: stl-DC3
+    100032: 12NCS_mergedObject
     400000: //RootNode
     400002: 12NCS-Collider
     400004: 12NCS-Hires
     400006: 12NCS-Lores
+    400008: 12NCS--B76
+    400010: 12NCS-A35
+    400012: 12NCS-A35Collider
+    400014: 12NCS-AN-24
+    400016: 12NCS-AN-24Collider
+    400018: 12NCS-B76-Collider
+    400020: 12NCS-DC3
+    400022: 12NCS-DC3-Collider
+    400024: stl-35
+    400026: stl-76
+    400028: stl-AN-24
+    400030: stl-DC3
+    400032: 12NCS_mergedObject
     2100000: unnamed
     2100002: Material
+    2100004: zz_TextureAtlas_NO_Material__12NCS
+    2100006: Material__12NCS
+    2100008: None__12NCS
     2300000: 12NCS-Collider
     2300002: 12NCS-Hires
     2300004: 12NCS-Lores
+    2300006: 12NCS--B76
+    2300008: 12NCS-A35
+    2300010: 12NCS-A35Collider
+    2300012: 12NCS-AN-24
+    2300014: 12NCS-AN-24Collider
+    2300016: 12NCS-B76-Collider
+    2300018: 12NCS-DC3
+    2300020: 12NCS-DC3-Collider
+    2300022: stl-35
+    2300024: stl-76
+    2300026: stl-AN-24
+    2300028: stl-DC3
+    2300030: 12NCS_mergedObject
     3300000: 12NCS-Collider
     3300002: 12NCS-Hires
     3300004: 12NCS-Lores
+    3300006: 12NCS--B76
+    3300008: 12NCS-A35
+    3300010: 12NCS-A35Collider
+    3300012: 12NCS-AN-24
+    3300014: 12NCS-AN-24Collider
+    3300016: 12NCS-B76-Collider
+    3300018: 12NCS-DC3
+    3300020: 12NCS-DC3-Collider
+    3300022: stl-35
+    3300024: stl-76
+    3300026: stl-AN-24
+    3300028: stl-DC3
+    3300030: 12NCS_mergedObject
     4300000: 12NCS-Collider
     4300002: 12NCS-Lores
     4300004: 12NCS-Hires
+    4300006: stl-AN-24
+    4300008: 12NCS-DC3-Collider
+    4300010: 12NCS-DC3
+    4300012: stl-DC3
+    4300014: stl-76
+    4300016: stl-35
+    4300018: 12NCS--B76
+    4300020: 12NCS-A35
+    4300022: 12NCS-AN-24
+    4300024: 12NCS-B76-Collider
+    4300026: 12NCS-A35Collider
+    4300028: 12NCS-AN-24Collider
+    4300030: 12NCS_mergedObject
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
