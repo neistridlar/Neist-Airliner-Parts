@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: c520a4c72a66aba48b8121a7182bee33
+timeCreated: 1528497924
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CF34-8
+    100004: CF34-8-Fan
+    100006: CF34-8-InternalStrustRotator
+    100008: CF34-8-InternalStruts
+    100010: CF34-8-MainBody
+    100012: CF34-8-Objects
+    100014: CF34-8-RearCowling
+    100016: CF34-8Collider
+    100018: CF34-8LowPoly
+    100020: FLAG
+    100022: FLAG_001
+    100024: References
+    100026: SideMountPylon
+    100028: SideMountPylonCollider
+    100030: TopMountPylon
+    100032: TopMountPylonCollider
+    100034: TopMountPylonCollider2
+    100036: CF34-8-Fan-Old
+    100038: CF34-8-Fanblade
+    100040: CF34-8-FanbladeOffset
+    100042: CF34-8Collider-External
+    100044: CF34-8ColliderInternal
+    400000: //RootNode
+    400002: CF34-8
+    400004: CF34-8-Fan
+    400006: CF34-8-InternalStrustRotator
+    400008: CF34-8-InternalStruts
+    400010: CF34-8-MainBody
+    400012: CF34-8-Objects
+    400014: CF34-8-RearCowling
+    400016: CF34-8Collider
+    400018: CF34-8LowPoly
+    400020: FLAG
+    400022: FLAG_001
+    400024: References
+    400026: SideMountPylon
+    400028: SideMountPylonCollider
+    400030: TopMountPylon
+    400032: TopMountPylonCollider
+    400034: TopMountPylonCollider2
+    400036: CF34-8-Fan-Old
+    400038: CF34-8-Fanblade
+    400040: CF34-8-FanbladeOffset
+    400042: CF34-8Collider-External
+    400044: CF34-8ColliderInternal
+    2100000: unnamed
+    2100002: Material_002__CF34
+    2100004: Material_002
+    2100006: Material_002__CheckerBoardFlag_png
+    2100008: None__CheckerBoardFlag_png
+    2300000: CF34-8
+    2300002: CF34-8-Fan
+    2300004: CF34-8-InternalStruts
+    2300006: CF34-8-MainBody
+    2300008: CF34-8-RearCowling
+    2300010: CF34-8Collider
+    2300012: CF34-8LowPoly
+    2300014: FLAG
+    2300016: FLAG_001
+    2300018: SideMountPylon
+    2300020: SideMountPylonCollider
+    2300022: TopMountPylon
+    2300024: TopMountPylonCollider
+    2300026: TopMountPylonCollider2
+    2300028: CF34-8-Fan-Old
+    2300030: CF34-8-Fanblade
+    2300032: CF34-8Collider-External
+    2300034: CF34-8ColliderInternal
+    3300000: CF34-8
+    3300002: CF34-8-Fan
+    3300004: CF34-8-InternalStruts
+    3300006: CF34-8-MainBody
+    3300008: CF34-8-RearCowling
+    3300010: CF34-8Collider
+    3300012: CF34-8LowPoly
+    3300014: FLAG
+    3300016: FLAG_001
+    3300018: SideMountPylon
+    3300020: SideMountPylonCollider
+    3300022: TopMountPylon
+    3300024: TopMountPylonCollider
+    3300026: TopMountPylonCollider2
+    3300028: CF34-8-Fan-Old
+    3300030: CF34-8-Fanblade
+    3300032: CF34-8Collider-External
+    3300034: CF34-8ColliderInternal
+    4300000: TopMountPylonCollider2
+    4300002: TopMountPylonCollider
+    4300004: TopMountPylon
+    4300006: SideMountPylonCollider
+    4300008: SideMountPylon
+    4300010: CF34-8
+    4300012: CF34-8LowPoly
+    4300014: CF34-8-Fan
+    4300016: CF34-8-InternalStruts
+    4300018: CF34-8-MainBody
+    4300020: CF34-8-RearCowling
+    4300022: CF34-8Collider
+    4300024: FLAG
+    4300026: FLAG_001
+    4300028: CF34-8-Fanblade
+    4300030: CF34-8-Fan-Old
+    4300032: CF34-8ColliderInternal
+    4300034: CF34-8Collider-External
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
