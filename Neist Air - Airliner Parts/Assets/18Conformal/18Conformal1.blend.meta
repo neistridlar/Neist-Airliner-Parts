@@ -17,6 +17,8 @@ ModelImporter:
     100018: Colliders__4__collider
     100020: Colliders_collider
     100022: Conformal1
+    100024: 18Conformal1
+    100026: Plane
     400000: //RootNode
     400002: Colliders
     400004: Colliders__1_
@@ -29,6 +31,8 @@ ModelImporter:
     400018: Colliders__4__collider
     400020: Colliders_collider
     400022: Conformal1
+    400024: 18Conformal1
+    400026: Plane
     2100000: 18Conformal1
     2100002: unnamed
     2100004: Material
@@ -38,18 +42,21 @@ ModelImporter:
     2300006: Colliders__4__collider
     2300008: Colliders_collider
     2300010: Conformal1
+    2300012: Plane
     3300000: Colliders__1__collider
     3300002: Colliders__2__collider
     3300004: Colliders__3__collider
     3300006: Colliders__4__collider
     3300008: Colliders_collider
     3300010: Conformal1
+    3300012: Plane
     4300000: Conformal1
     4300002: Colliders__4__collider
     4300004: Colliders__3__collider
     4300006: Colliders__2__collider
     4300008: Colliders__1__collider
     4300010: Colliders_collider
+    4300012: Plane
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}

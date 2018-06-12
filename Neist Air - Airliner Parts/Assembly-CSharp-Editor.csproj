@@ -120,22 +120,22 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="PartTools">
- <HintPath>C:/Users/Stein Arild/Documents/Neist Air - Airliner Parts/Assets/PartTools/Lib/PartTools.dll</HintPath>
+ <HintPath>C:/Users/Stein Arild/Documents/GitHub/Neist-Air---Airliner-parts/Neist Air - Airliner Parts/Assets/PartTools/Lib/PartTools.dll</HintPath>
  </Reference>
  <Reference Include="PartToolsEditor">
- <HintPath>C:/Users/Stein Arild/Documents/Neist Air - Airliner Parts/Assets/PartTools/Lib/PartToolsEditor.dll</HintPath>
+ <HintPath>C:/Users/Stein Arild/Documents/GitHub/Neist-Air---Airliner-parts/Neist Air - Airliner Parts/Assets/PartTools/Lib/PartToolsEditor.dll</HintPath>
  </Reference>
  <Reference Include="KSPAssetCompiler">
- <HintPath>C:/Users/Stein Arild/Documents/Neist Air - Airliner Parts/Assets/Plugins/KSPAssets/KSPAssetCompiler.dll</HintPath>
+ <HintPath>C:/Users/Stein Arild/Documents/GitHub/Neist-Air---Airliner-parts/Neist Air - Airliner Parts/Assets/Plugins/KSPAssets/KSPAssetCompiler.dll</HintPath>
  </Reference>
  <Reference Include="KSPAssets">
- <HintPath>C:/Users/Stein Arild/Documents/Neist Air - Airliner Parts/Assets/Plugins/KSPAssets/KSPAssets.dll</HintPath>
+ <HintPath>C:/Users/Stein Arild/Documents/GitHub/Neist-Air---Airliner-parts/Neist Air - Airliner Parts/Assets/Plugins/KSPAssets/KSPAssets.dll</HintPath>
  </Reference>
  <Reference Include="TextMeshPro">
- <HintPath>C:/Users/Stein Arild/Documents/Neist Air - Airliner Parts/Assets/TextMesh Pro/Plugins/TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/Stein Arild/Documents/GitHub/Neist-Air---Airliner-parts/Neist Air - Airliner Parts/Assets/TextMesh Pro/Plugins/TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="TextMeshPro-Editor">
- <HintPath>C:/Users/Stein Arild/Documents/Neist Air - Airliner Parts/Assets/TextMesh Pro/Plugins/Editor/TextMeshPro-Editor.dll</HintPath>
+ <HintPath>C:/Users/Stein Arild/Documents/GitHub/Neist-Air---Airliner-parts/Neist Air - Airliner Parts/Assets/TextMesh Pro/Plugins/Editor/TextMeshPro-Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/ProgramData/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>

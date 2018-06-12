@@ -19,6 +19,7 @@ ModelImporter:
     100022: 31-37AD
     100024: 31-37AD-Collider
     100026: 31A35-IVA
+    100028: Circle
     400000: 13-37AD
     400002: 1_25mEndcap
     400004: 31-37Adapter
@@ -33,6 +34,7 @@ ModelImporter:
     400022: 31-37AD
     400024: 31-37AD-Collider
     400026: 31A35-IVA
+    400028: Circle
     2100000: unnamed
     2100002: Material
     2100004: Exterior
@@ -52,6 +54,7 @@ ModelImporter:
     2300020: 31-37AD
     2300022: 31-37AD-Collider
     2300024: 31A35-IVA
+    2300026: Circle
     3300000: 13-37AD
     3300002: 1_25mEndcap
     3300004: 31-37Adapter
@@ -65,6 +68,7 @@ ModelImporter:
     3300020: 31-37AD
     3300022: 31-37AD-Collider
     3300024: 31A35-IVA
+    3300026: Circle
     4300000: Plane
     4300002: Kerbal
     4300004: 13-37AD
@@ -78,6 +82,7 @@ ModelImporter:
     4300020: 31-37AD-Collider
     4300022: 31A35-IVA
     4300024: 31-37AD
+    4300026: Circle
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
