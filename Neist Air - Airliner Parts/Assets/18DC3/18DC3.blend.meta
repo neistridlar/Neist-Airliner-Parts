@@ -16,6 +16,9 @@ ModelImporter:
     100016: 18DC3-DepthMask
     100018: 18DC3-Flag
     100020: Circle
+    100022: 18DC3-Windows_001
+    100024: Circle_001
+    100026: DC-3_9_mergedObject
     400000: 12NCS2
     400002: //RootNode
     400004: 18DC3
@@ -27,6 +30,9 @@ ModelImporter:
     400016: 18DC3-DepthMask
     400018: 18DC3-Flag
     400020: Circle
+    400022: 18DC3-Windows_001
+    400024: Circle_001
+    400026: DC-3_9_mergedObject
     2100000: unnamed
     2100002: Material__kerbalMain_png_001
     2100004: Material__kerbalHead_png_001
@@ -46,6 +52,9 @@ ModelImporter:
     2300014: 18DC3-DepthMask
     2300016: 18DC3-Flag
     2300018: Circle
+    2300020: 18DC3-Windows_001
+    2300022: Circle_001
+    2300024: DC-3_9_mergedObject
     3300000: 12NCS2
     3300002: 18DC3
     3300004: 18DC3-Body
@@ -56,6 +65,9 @@ ModelImporter:
     3300014: 18DC3-DepthMask
     3300016: 18DC3-Flag
     3300018: Circle
+    3300020: 18DC3-Windows_001
+    3300022: Circle_001
+    3300024: DC-3_9_mergedObject
     4300000: 18DC3-IVA
     4300002: 12NCS2
     4300004: 18DC3-Windows
@@ -66,6 +78,9 @@ ModelImporter:
     4300014: 18DC3-DepthMask
     4300016: 18DC3-Flag
     4300018: Circle
+    4300020: DC-3_9_mergedObject
+    4300022: Circle_001
+    4300024: 18DC3-Windows_001
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
