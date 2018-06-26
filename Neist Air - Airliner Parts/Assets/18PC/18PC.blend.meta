@@ -59,6 +59,10 @@ ModelImporter:
     100102: Window
     100104: Window_001
     100106: Window2
+    100108: Interior-Basic
+    100110: Interior_001
+    100112: Plane
+    100114: Plane_001
     400000: //RootNode
     400002: 18PC-Exterior
     400004: 18PC-interior1_2
@@ -113,6 +117,10 @@ ModelImporter:
     400102: Window
     400104: Window_001
     400106: Window2
+    400108: Interior-Basic
+    400110: Interior_001
+    400112: Plane
+    400114: Plane_001
     2100000: New_Material
     2100002: New_Material_1
     2100004: SeatMaterial
@@ -154,6 +162,10 @@ ModelImporter:
     2300066: Window
     2300068: Window_001
     2300070: Window2
+    2300072: Interior-Basic
+    2300074: Interior_001
+    2300076: Plane
+    2300078: Plane_001
     3300000: 18PC-OverlayMask_001
     3300002: BodyMesh
     3300004: BodyMesh_collider
@@ -190,6 +202,10 @@ ModelImporter:
     3300066: Window
     3300068: Window_001
     3300070: Window2
+    3300072: Interior-Basic
+    3300074: Interior_001
+    3300076: Plane
+    3300078: Plane_001
     4300000: mesh_InternalWindowCollider__7_
     4300002: mesh_InternalWindowCollider__6_
     4300004: mesh_InternalWindowCollider__5_
@@ -226,6 +242,10 @@ ModelImporter:
     4300066: Interior3
     4300068: Window_001
     4300070: Window2
+    4300072: Plane_001
+    4300074: Interior_001
+    4300076: Plane
+    4300078: Interior-Basic
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}

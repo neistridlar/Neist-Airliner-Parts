@@ -22,6 +22,8 @@ ModelImporter:
     100028: stl-AN-24
     100030: stl-DC3
     100032: 12NCS_mergedObject
+    100034: 12NCS-DC-9
+    100036: 12NCS-DC9-Collider
     400000: //RootNode
     400002: 12NCS-Collider
     400004: 12NCS-Hires
@@ -39,11 +41,14 @@ ModelImporter:
     400028: stl-AN-24
     400030: stl-DC3
     400032: 12NCS_mergedObject
+    400034: 12NCS-DC-9
+    400036: 12NCS-DC9-Collider
     2100000: unnamed
     2100002: Material
     2100004: zz_TextureAtlas_NO_Material__12NCS
     2100006: Material__12NCS
     2100008: None__12NCS
+    2100010: Material_001__12NCS
     2300000: 12NCS-Collider
     2300002: 12NCS-Hires
     2300004: 12NCS-Lores
@@ -60,6 +65,8 @@ ModelImporter:
     2300026: stl-AN-24
     2300028: stl-DC3
     2300030: 12NCS_mergedObject
+    2300032: 12NCS-DC-9
+    2300034: 12NCS-DC9-Collider
     3300000: 12NCS-Collider
     3300002: 12NCS-Hires
     3300004: 12NCS-Lores
@@ -76,6 +83,8 @@ ModelImporter:
     3300026: stl-AN-24
     3300028: stl-DC3
     3300030: 12NCS_mergedObject
+    3300032: 12NCS-DC-9
+    3300034: 12NCS-DC9-Collider
     4300000: 12NCS-Collider
     4300002: 12NCS-Lores
     4300004: 12NCS-Hires
@@ -92,6 +101,8 @@ ModelImporter:
     4300026: 12NCS-A35Collider
     4300028: 12NCS-AN-24Collider
     4300030: 12NCS_mergedObject
+    4300032: 12NCS-DC-9
+    4300034: 12NCS-DC9-Collider
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
