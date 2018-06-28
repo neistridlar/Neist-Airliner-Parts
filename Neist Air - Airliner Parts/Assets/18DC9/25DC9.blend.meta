@@ -20,6 +20,8 @@ ModelImporter:
     100024: 25DC9-Collider2
     100026: 12NCS-DC9-Collider
     100028: DC-9_mergedObject
+    100030: Cube
+    100032: 25DC9-Flag
     400000: 12NCS-DC-9
     400002: 18DC9-Collider
     400004: 18DC9-DM
@@ -35,6 +37,8 @@ ModelImporter:
     400024: 25DC9-Collider2
     400026: 12NCS-DC9-Collider
     400028: DC-9_mergedObject
+    400030: Cube
+    400032: 25DC9-Flag
     2100000: unnamed
     2100002: 18DC9-exterior_001__DC-9
     2100004: 18DC9-exterior__DC-9
@@ -55,6 +59,8 @@ ModelImporter:
     2300022: 25DC9-Collider2
     2300024: 12NCS-DC9-Collider
     2300026: DC-9_mergedObject
+    2300028: Cube
+    2300030: 25DC9-Flag
     3300000: 12NCS-DC-9
     3300002: 18DC9-Collider
     3300004: 18DC9-DM
@@ -69,6 +75,8 @@ ModelImporter:
     3300022: 25DC9-Collider2
     3300024: 12NCS-DC9-Collider
     3300026: DC-9_mergedObject
+    3300028: Cube
+    3300030: 25DC9-Flag
     4300000: Circle_001
     4300002: 25DC9-Windows_001
     4300004: Circle
@@ -83,6 +91,8 @@ ModelImporter:
     4300022: 25DC9-Collider
     4300024: 12NCS-DC9-Collider
     4300026: DC-9_mergedObject
+    4300028: Cube
+    4300030: 25DC9-Flag
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
