@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: cc7200971e1a3864f820f7c4e8c76b4a
+timeCreated: 1525244740
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 18CRJ
+    100004: 18CRJ-DepthMask
+    100006: 18CRJ-DepthMask_001
+    100008: 18CRJ-FlagPort
+    100010: 18CRJ-FlagStarboard
+    100012: 18CRJ-IVA
+    100014: 18CRJ-IVA_001
+    100016: Airlock
+    100018: Airlock__1_
+    100020: Body
+    100022: Collider
+    100024: Collider_collider
+    100026: InternalWindowCollider
+    100028: InternalWindowCollider__1_
+    100030: InternalWindowCollider__2_
+    100032: InternalWindowCollider__3_
+    100034: Ladder
+    100036: Ladder_002
+    100038: mesh_Airlock
+    100040: mesh_Airlock__1_
+    100042: mesh_InternalWindowCollider
+    100044: mesh_InternalWindowCollider__1_
+    100046: mesh_InternalWindowCollider__2_
+    100048: mesh_InternalWindowCollider__3_
+    100050: mesh_Ladder
+    100052: mesh_Ladder_001
+    100054: PilotSeat
+    100056: PilotSeat__1_
+    100058: WindowsDims
+    100060: WindowsDims_001
+    100062: Circle
+    100064: Body_001
+    100066: 18CRJ-Body
+    100068: 18CRJ-Windows
+    100070: 18CRJ-DM2
+    100072: 18CRJ-Collider
+    100074: 18CRJ-Body_001
+    400000: 18CRJ
+    400002: //RootNode
+    400004: 18CRJ-DepthMask
+    400006: 18CRJ-DepthMask_001
+    400008: 18CRJ-FlagPort
+    400010: 18CRJ-FlagStarboard
+    400012: 18CRJ-IVA
+    400014: 18CRJ-IVA_001
+    400016: Airlock
+    400018: Airlock__1_
+    400020: Body
+    400022: Collider
+    400024: Collider_collider
+    400026: InternalWindowCollider
+    400028: InternalWindowCollider__1_
+    400030: InternalWindowCollider__2_
+    400032: InternalWindowCollider__3_
+    400034: Ladder
+    400036: Ladder_002
+    400038: mesh_Airlock
+    400040: mesh_Airlock__1_
+    400042: mesh_InternalWindowCollider
+    400044: mesh_InternalWindowCollider__1_
+    400046: mesh_InternalWindowCollider__2_
+    400048: mesh_InternalWindowCollider__3_
+    400050: mesh_Ladder
+    400052: mesh_Ladder_001
+    400054: PilotSeat
+    400056: PilotSeat__1_
+    400058: WindowsDims
+    400060: WindowsDims_001
+    400062: Circle
+    400064: Body_001
+    400066: 18CRJ-Body
+    400068: 18CRJ-Windows
+    400070: 18CRJ-DM2
+    400072: 18CRJ-Collider
+    400074: 18CRJ-Body_001
+    2100000: 18CRJ-External
+    2100002: PlaceAnywhereFlag
+    2100004: WindowsDim
+    2100006: unnamed
+    2100008: DepthMask
+    2100010: 18-CRJ-IVA
+    2100012: WindowDimInside
+    2100014: 18CRJ-External_001
+    2100016: 18CRJ-IVA-texture
+    2100018: 18CRJ-External_002
+    2300000: 18CRJ-DepthMask_001
+    2300002: 18CRJ-FlagPort
+    2300004: 18CRJ-FlagStarboard
+    2300006: 18CRJ-IVA_001
+    2300008: Body
+    2300010: Collider_collider
+    2300012: mesh_Airlock
+    2300014: mesh_Airlock__1_
+    2300016: mesh_InternalWindowCollider
+    2300018: mesh_InternalWindowCollider__1_
+    2300020: mesh_InternalWindowCollider__2_
+    2300022: mesh_InternalWindowCollider__3_
+    2300024: mesh_Ladder
+    2300026: mesh_Ladder_001
+    2300028: WindowsDims
+    2300030: WindowsDims_001
+    2300032: Circle
+    2300034: Body_001
+    2300036: 18CRJ-DepthMask
+    2300038: 18CRJ-IVA
+    2300040: 18CRJ-Body
+    2300042: 18CRJ-Windows
+    2300044: 18CRJ-DM2
+    2300046: 18CRJ-Collider
+    2300048: 18CRJ-Body_001
+    3300000: 18CRJ-DepthMask_001
+    3300002: 18CRJ-FlagPort
+    3300004: 18CRJ-FlagStarboard
+    3300006: 18CRJ-IVA_001
+    3300008: Body
+    3300010: Collider_collider
+    3300012: mesh_Airlock
+    3300014: mesh_Airlock__1_
+    3300016: mesh_InternalWindowCollider
+    3300018: mesh_InternalWindowCollider__1_
+    3300020: mesh_InternalWindowCollider__2_
+    3300022: mesh_InternalWindowCollider__3_
+    3300024: mesh_Ladder
+    3300026: mesh_Ladder_001
+    3300028: WindowsDims
+    3300030: WindowsDims_001
+    3300032: Circle
+    3300034: Body_001
+    3300036: 18CRJ-DepthMask
+    3300038: 18CRJ-IVA
+    3300040: 18CRJ-Body
+    3300042: 18CRJ-Windows
+    3300044: 18CRJ-DM2
+    3300046: 18CRJ-Collider
+    3300048: 18CRJ-Body_001
+    4300000: mesh_Ladder_001
+    4300002: mesh_Airlock__1_
+    4300004: mesh_Ladder
+    4300006: mesh_Airlock
+    4300008: mesh_InternalWindowCollider__3_
+    4300010: mesh_InternalWindowCollider__2_
+    4300012: mesh_InternalWindowCollider__1_
+    4300014: mesh_InternalWindowCollider
+    4300016: Body
+    4300018: 18CRJ-FlagStarboard
+    4300020: 18CRJ-FlagPort
+    4300022: WindowsDims_001
+    4300024: Collider_collider
+    4300026: 18CRJ-DepthMask_001
+    4300028: 18CRJ-IVA_001
+    4300030: WindowsDims
+    4300032: Circle
+    4300034: Body_001
+    4300036: 18CRJ-DepthMask
+    4300038: 18CRJ-IVA
+    4300040: 18CRJ-Body
+    4300042: 18CRJ-Windows
+    4300044: 18CRJ-DM2
+    4300046: 18CRJ-Collider
+    4300048: 18CRJ-Body_001
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

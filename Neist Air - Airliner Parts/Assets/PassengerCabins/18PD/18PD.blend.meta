@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: a7cec5f362d99184e8d3001f35cf5437
+timeCreated: 1525887457
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 18PD-Body
+    100004: 18PD-Door
+    100006: 18PD-Door_001
+    100008: 18PD-Ramp
+    100010: 18PD-Door_002
+    100012: 18PD-Door_003
+    100014: 18PD-Door_004
+    100016: 18PD-Ramp_001
+    100018: 18PD-Door-Prototype
+    100020: 18PD-DoorCollider
+    100022: Body-Collider
+    100024: Body-Collider_001
+    100026: Body-Collider_002
+    100028: Body-Collider_003
+    100030: Body-Collider_004
+    100032: Body-Collider_005
+    100034: Body-Collider_006
+    100036: Body-Collider_007
+    100038: Body-Collider_008
+    100040: Body-Collider_009
+    100042: Body-Collider_010
+    100044: Body-Collider_011
+    100046: Body-Collider_012
+    100048: Body-Collider_013
+    100050: Body-Collider_014
+    100052: Body-Collider_015
+    100054: Cylinder
+    100056: PassengerDoor_mergedObject
+    100058: Cylinder_001
+    400000: //RootNode
+    400002: 18PD-Body
+    400004: 18PD-Door
+    400006: 18PD-Door_001
+    400008: 18PD-Ramp
+    400010: 18PD-Door_002
+    400012: 18PD-Door_003
+    400014: 18PD-Door_004
+    400016: 18PD-Ramp_001
+    400018: 18PD-Door-Prototype
+    400020: 18PD-DoorCollider
+    400022: Body-Collider
+    400024: Body-Collider_001
+    400026: Body-Collider_002
+    400028: Body-Collider_003
+    400030: Body-Collider_004
+    400032: Body-Collider_005
+    400034: Body-Collider_006
+    400036: Body-Collider_007
+    400038: Body-Collider_008
+    400040: Body-Collider_009
+    400042: Body-Collider_010
+    400044: Body-Collider_011
+    400046: Body-Collider_012
+    400048: Body-Collider_013
+    400050: Body-Collider_014
+    400052: Body-Collider_015
+    400054: Cylinder
+    400056: PassengerDoor_mergedObject
+    400058: Cylinder_001
+    2100000: unnamed
+    2100002: Material__PassengerDoor
+    2100004: zz_TextureAtlas_NO_Material__PassengerDoor
+    2100006: None__PassengerDoor
+    2300000: 18PD-Body
+    2300002: 18PD-Door
+    2300004: 18PD-Door_001
+    2300006: 18PD-Ramp
+    2300008: 18PD-Door_002
+    2300010: 18PD-Door_003
+    2300012: 18PD-Door_004
+    2300014: 18PD-Ramp_001
+    2300016: 18PD-Door-Prototype
+    2300018: 18PD-DoorCollider
+    2300020: Body-Collider
+    2300022: Body-Collider_001
+    2300024: Body-Collider_002
+    2300026: Body-Collider_003
+    2300028: Body-Collider_004
+    2300030: Body-Collider_005
+    2300032: Body-Collider_006
+    2300034: Body-Collider_007
+    2300036: Body-Collider_008
+    2300038: Body-Collider_009
+    2300040: Body-Collider_010
+    2300042: Body-Collider_011
+    2300044: Body-Collider_012
+    2300046: Body-Collider_013
+    2300048: Body-Collider_014
+    2300050: Body-Collider_015
+    2300052: Cylinder
+    2300054: PassengerDoor_mergedObject
+    2300056: Cylinder_001
+    3300000: 18PD-Body
+    3300002: 18PD-Door
+    3300004: 18PD-Door_001
+    3300006: 18PD-Ramp
+    3300008: 18PD-Door_002
+    3300010: 18PD-Door_003
+    3300012: 18PD-Door_004
+    3300014: 18PD-Ramp_001
+    3300016: 18PD-Door-Prototype
+    3300018: 18PD-DoorCollider
+    3300020: Body-Collider
+    3300022: Body-Collider_001
+    3300024: Body-Collider_002
+    3300026: Body-Collider_003
+    3300028: Body-Collider_004
+    3300030: Body-Collider_005
+    3300032: Body-Collider_006
+    3300034: Body-Collider_007
+    3300036: Body-Collider_008
+    3300038: Body-Collider_009
+    3300040: Body-Collider_010
+    3300042: Body-Collider_011
+    3300044: Body-Collider_012
+    3300046: Body-Collider_013
+    3300048: Body-Collider_014
+    3300050: Body-Collider_015
+    3300052: Cylinder
+    3300054: PassengerDoor_mergedObject
+    3300056: Cylinder_001
+    4300000: 18PD-Door_001
+    4300002: 18PD-Body
+    4300004: 18PD-Door
+    4300006: 18PD-Ramp
+    4300008: 18PD-Door_002
+    4300010: 18PD-Door_003
+    4300012: 18PD-Door_004
+    4300014: 18PD-Ramp_001
+    4300016: 18PD-DoorCollider
+    4300018: Body-Collider
+    4300020: 18PD-Door-Prototype
+    4300022: Body-Collider_001
+    4300024: Body-Collider_002
+    4300026: Body-Collider_003
+    4300028: Body-Collider_004
+    4300030: Body-Collider_005
+    4300032: Body-Collider_006
+    4300034: Body-Collider_007
+    4300036: Body-Collider_008
+    4300038: Body-Collider_009
+    4300040: Body-Collider_010
+    4300042: Body-Collider_011
+    4300044: Body-Collider_012
+    4300046: Body-Collider_013
+    4300048: Body-Collider_014
+    4300050: Body-Collider_015
+    4300052: Cylinder
+    4300054: PassengerDoor_mergedObject
+    4300056: Cylinder_001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

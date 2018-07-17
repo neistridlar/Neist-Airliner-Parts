@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: fe1692d1b23569e4ab3f9597771b8b33
+timeCreated: 1526322474
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 12NCS2
+    100002: //RootNode
+    100004: 18DC3
+    100006: 18DC3-Body
+    100008: 18DC3-IVA
+    100010: 18DC3-Windows
+    100012: Kerbal
+    100014: 18DC3-Collider
+    100016: 18DC3-DepthMask
+    100018: 18DC3-Flag
+    100020: Circle
+    100022: 18DC3-Windows_001
+    100024: Circle_001
+    100026: DC-3_9_mergedObject
+    400000: 12NCS2
+    400002: //RootNode
+    400004: 18DC3
+    400006: 18DC3-Body
+    400008: 18DC3-IVA
+    400010: 18DC3-Windows
+    400012: Kerbal
+    400014: 18DC3-Collider
+    400016: 18DC3-DepthMask
+    400018: 18DC3-Flag
+    400020: Circle
+    400022: 18DC3-Windows_001
+    400024: Circle_001
+    400026: DC-3_9_mergedObject
+    2100000: unnamed
+    2100002: Material__kerbalMain_png_001
+    2100004: Material__kerbalHead_png_001
+    2100006: Material__dummy_kerbalEyeball_png_001
+    2100008: Material__dummy_kerbalPupil_png_001
+    2100010: Material_001
+    2100012: IVA
+    2100014: Material_001__DC-3_9
+    2100016: FlagChecker
+    2300000: 12NCS2
+    2300002: 18DC3
+    2300004: 18DC3-Body
+    2300006: 18DC3-IVA
+    2300008: 18DC3-Windows
+    2300010: Kerbal
+    2300012: 18DC3-Collider
+    2300014: 18DC3-DepthMask
+    2300016: 18DC3-Flag
+    2300018: Circle
+    2300020: 18DC3-Windows_001
+    2300022: Circle_001
+    2300024: DC-3_9_mergedObject
+    3300000: 12NCS2
+    3300002: 18DC3
+    3300004: 18DC3-Body
+    3300006: 18DC3-IVA
+    3300008: 18DC3-Windows
+    3300010: Kerbal
+    3300012: 18DC3-Collider
+    3300014: 18DC3-DepthMask
+    3300016: 18DC3-Flag
+    3300018: Circle
+    3300020: 18DC3-Windows_001
+    3300022: Circle_001
+    3300024: DC-3_9_mergedObject
+    4300000: 18DC3-IVA
+    4300002: 12NCS2
+    4300004: 18DC3-Windows
+    4300006: 18DC3
+    4300008: 18DC3-Body
+    4300010: Kerbal
+    4300012: 18DC3-Collider
+    4300014: 18DC3-DepthMask
+    4300016: 18DC3-Flag
+    4300018: Circle
+    4300020: DC-3_9_mergedObject
+    4300022: Circle_001
+    4300024: 18DC3-Windows_001
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

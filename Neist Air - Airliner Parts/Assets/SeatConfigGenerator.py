@@ -1,4 +1,4 @@
-abrest = 6
+abrest = 7
 rows = 5
 seatnames = 'ABCDEFGHIJKLMNOPQRSTUVW'
 for i in range(abrest*rows):
@@ -7,7 +7,7 @@ for i in range(abrest*rows):
 		{\n\
 		name = InternalSeat\n\
 		seatTransformName = SeatTransform (' +
-		str(i+1)  + ')2\n\
+		str(i+1)  + ')3\n\
 		kerbalEyeOffset = 0, 0.02, 0\n\
 		displayseatName =' + seatname + '\n\
 		allowCrewHelmet = false\n\

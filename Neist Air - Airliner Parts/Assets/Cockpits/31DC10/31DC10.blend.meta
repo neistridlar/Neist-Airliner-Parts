@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: a501b68e63921544cabc6cf53f8b2477
+timeCreated: 1528748584
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 31DC10
+    100004: 31DC10stl
+    100006: Circle
+    100008: 31DC10-windows
+    100010: 31DC10-windows_001
+    100012: Circle_001
+    100014: Cube
+    100016: 31DC10-Collider
+    100018: 31DC10-Flag
+    100020: 31DC10-IVA
+    100022: Kerbal
+    100024: Kerbal_001
+    100026: Kerbal_002
+    100028: SeatPassenger
+    100030: SeatPassenger_001
+    100032: SeatPassenger_002
+    100034: External_mergedObject
+    400000: //RootNode
+    400002: 31DC10
+    400004: 31DC10stl
+    400006: Circle
+    400008: 31DC10-windows
+    400010: 31DC10-windows_001
+    400012: Circle_001
+    400014: Cube
+    400016: 31DC10-Collider
+    400018: 31DC10-Flag
+    400020: 31DC10-IVA
+    400022: Kerbal
+    400024: Kerbal_001
+    400026: Kerbal_002
+    400028: SeatPassenger
+    400030: SeatPassenger_001
+    400032: SeatPassenger_002
+    400034: External_mergedObject
+    2100000: unnamed
+    2100002: None__External
+    2100004: Material_001__External
+    2100006: Flag__External
+    2300000: 31DC10
+    2300002: 31DC10stl
+    2300004: Circle
+    2300006: 31DC10-windows
+    2300008: 31DC10-windows_001
+    2300010: Circle_001
+    2300012: Cube
+    2300014: 31DC10-Collider
+    2300016: 31DC10-Flag
+    2300018: 31DC10-IVA
+    2300020: Kerbal
+    2300022: Kerbal_001
+    2300024: Kerbal_002
+    2300026: SeatPassenger
+    2300028: SeatPassenger_001
+    2300030: SeatPassenger_002
+    2300032: External_mergedObject
+    3300000: 31DC10
+    3300002: 31DC10stl
+    3300004: Circle
+    3300006: 31DC10-windows
+    3300008: 31DC10-windows_001
+    3300010: Circle_001
+    3300012: Cube
+    3300014: 31DC10-Collider
+    3300016: 31DC10-Flag
+    3300018: 31DC10-IVA
+    3300020: Kerbal
+    3300022: Kerbal_001
+    3300024: Kerbal_002
+    3300026: SeatPassenger
+    3300028: SeatPassenger_001
+    3300030: SeatPassenger_002
+    3300032: External_mergedObject
+    4300000: Circle
+    4300002: 31DC10
+    4300004: 31DC10stl
+    4300006: 31DC10-windows_001
+    4300008: Circle_001
+    4300010: Cube
+    4300012: 31DC10-windows
+    4300014: 31DC10-Collider
+    4300016: 31DC10-Flag
+    4300018: SeatPassenger_002
+    4300020: Kerbal_002
+    4300022: SeatPassenger_001
+    4300024: Kerbal_001
+    4300026: 31DC10-IVA
+    4300028: SeatPassenger
+    4300030: Kerbal
+    4300032: External_mergedObject
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
