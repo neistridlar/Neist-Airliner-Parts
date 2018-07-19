@@ -1,0 +1,88 @@
+MODULE
+        {
+            name = FXModuleThrottleEffects
+            fxModuleNames = colorChanger
+            responseSpeed = 0.005
+            dependOnEngineState = True
+            dependOnThrottle = True
+       }
+    
+    MODULE
+        {
+            name = ModuleColorChanger
+            moduleID = colorChanger
+        animRate = 0.05
+            shaderProperty = _EmissiveColor
+            toggleInEditor = false
+            toggleInFlight = false
+            redCurve
+        {
+            key = 0 1
+            key = 1 1
+        }
+        greenCurve
+        {
+            key = 0 0
+            key = 0.7 0.3
+            key = 1 1
+        }
+        blueCurve
+        {
+            key = 0 0
+            key = 0.7 0.2
+            key = 1 0
+        }
+        alphaCurve
+        {
+            key = 0 0
+            key = 1 1
+        }
+    }
+	
+NODE
+{
+    name = anything
+    transform = transform
+    size = 2
+    method = FIXED_JOINT
+}
+MODULE
+    {
+        name = FXModuleThrottleEffects
+        fxModuleNames = colorChanger
+        responseSpeed = 0.005
+        dependOnEngineState = True
+        dependOnThrottle = True
+    }
+    
+    MODULE
+    {
+        name = ModuleColorChanger
+        moduleID = colorChanger
+        animRate = 0.05
+        shaderProperty = _EmissiveColor
+        toggleInEditor = false
+        toggleInFlight = false
+        redCurve
+        {
+            key = 0 1
+            key = 1 1
+        }
+        greenCurve
+        {
+            key = 0 0
+            key = 0.7 0.3
+            key = 1 1
+        }
+        blueCurve
+        {
+            key = 0 0
+            key = 0.7 0.2
+            key = 1 0
+        }
+        alphaCurve
+        {
+            key = 0 0
+            key = 1 1
+        }
+    }

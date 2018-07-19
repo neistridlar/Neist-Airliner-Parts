@@ -269,6 +269,7 @@
     <None Include="Assets\PartTools\Shaders\Unlit.shader" />
     <None Include="Assets\PartTools\Shaders\UnlitTransparent.shader" />
     <None Include="Assets\Plugins\KSPAssets\ReadMe.txt" />
+    <None Include="Assets\ReferenceMaterial\new 1.txt" />
     <None Include="Assets\SquadCore\Shaders\Alpha.shader" />
     <None Include="Assets\SquadCore\Shaders\AlphaSpecular.shader" />
     <None Include="Assets\SquadCore\Shaders\Bumped.shader" />
