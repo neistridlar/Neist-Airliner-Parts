@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: e2fb8d8df4da1ed4dbbf70b06df5109b
+timeCreated: 1532385396
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CF6-80_v4
+    100004: CF6-Brace
+    100006: CF6-FanBlades
+    100008: CF6-FronCowl_core
+    100010: CF6-Main-FanHub
+    100012: CF6-RearCowl
+    100014: CF6Main
+    100016: FanBladeRotaionAngle
+    100018: StrutRotationAngle
+    400000: //RootNode
+    400002: CF6-80_v4
+    400004: CF6-Brace
+    400006: CF6-FanBlades
+    400008: CF6-FronCowl_core
+    400010: CF6-Main-FanHub
+    400012: CF6-RearCowl
+    400014: CF6Main
+    400016: FanBladeRotaionAngle
+    400018: StrutRotationAngle
+    2100000: unnamed
+    2100002: None__TT_checker_512x512_UV_GRID
+    2300000: CF6-80_v4
+    2300002: CF6-Brace
+    2300004: CF6-FanBlades
+    2300006: CF6-FronCowl_core
+    2300008: CF6-Main-FanHub
+    2300010: CF6-RearCowl
+    2300012: CF6Main
+    3300000: CF6-80_v4
+    3300002: CF6-Brace
+    3300004: CF6-FanBlades
+    3300006: CF6-FronCowl_core
+    3300008: CF6-Main-FanHub
+    3300010: CF6-RearCowl
+    3300012: CF6Main
+    4300000: CF6-Brace
+    4300002: CF6-FanBlades
+    4300004: CF6-Main-FanHub
+    4300006: CF6-RearCowl
+    4300008: CF6-FronCowl_core
+    4300010: CF6Main
+    4300012: CF6-80_v4
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

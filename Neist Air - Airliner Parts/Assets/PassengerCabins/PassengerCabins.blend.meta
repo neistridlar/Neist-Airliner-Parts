@@ -205,6 +205,32 @@ ModelImporter:
     100394: SeatTransforms3
     100396: SeatTransforms_001
     100398: 37PC-DM
+    100400: 25PC-external
+    100402: mesh
+    100404: 25PC-DM
+    100406: 25PC-internal
+    100408: Collider1
+    100410: Collider2
+    100412: Collider3
+    100414: Collider4
+    100416: Collider5
+    100418: Collider6
+    100420: MasterCollider
+    100422: Mesh_001
+    100424: 25PC-DepthMask
+    100426: 25PC-Mask
+    100428: 25PC-stl_001
+    100430: 25PC-stl_002
+    100432: 25PC-stl_003
+    100434: 37PC-internal-mesh_001
+    100436: Colliders_002
+    100438: MasterCollider_001
+    100440: MasterCollider_002
+    100442: MasterCollider_003
+    100444: MasterCollider_004
+    100446: MasterCollider_005
+    100448: MasterCollider_006
+    100450: SeatPassenger_001
     400000: 18CB
     400002: 18CD
     400004: 18CD-Body
@@ -405,6 +431,32 @@ ModelImporter:
     400394: SeatTransforms3
     400396: SeatTransforms_001
     400398: 37PC-DM
+    400400: 25PC-external
+    400402: mesh
+    400404: 25PC-DM
+    400406: 25PC-internal
+    400408: Collider1
+    400410: Collider2
+    400412: Collider3
+    400414: Collider4
+    400416: Collider5
+    400418: Collider6
+    400420: MasterCollider
+    400422: Mesh_001
+    400424: 25PC-DepthMask
+    400426: 25PC-Mask
+    400428: 25PC-stl_001
+    400430: 25PC-stl_002
+    400432: 25PC-stl_003
+    400434: 37PC-internal-mesh_001
+    400436: Colliders_002
+    400438: MasterCollider_001
+    400440: MasterCollider_002
+    400442: MasterCollider_003
+    400444: MasterCollider_004
+    400446: MasterCollider_005
+    400448: MasterCollider_006
+    400450: SeatPassenger_001
     2100000: unnamed
     2100002: Material_002
     2100004: 31PC-External__31PC-Texture_png
@@ -414,6 +466,11 @@ ModelImporter:
     2100012: 31PC-IVA
     2100014: DM
     2100016: 18PC
+    2100018: None__31PC-Texture_png
+    2100020: checker_map_gravity__TT_checker_1024x2048_COLOR_GRID
+    2100022: 31PC-IVA_001
+    2100024: Seats
+    2100026: checker_map_gravity
     2300000: 18CB
     2300002: 18CD-Body
     2300004: 18CD-Door1
@@ -478,6 +535,27 @@ ModelImporter:
     2300122: SeatPassenger
     2300124: SeatPassenger1
     2300126: 37PC-DM
+    2300128: mesh
+    2300130: Collider1
+    2300132: Collider2
+    2300134: Collider3
+    2300136: Collider4
+    2300138: Collider5
+    2300140: Collider6
+    2300142: MasterCollider
+    2300144: Mesh_001
+    2300146: 25PC-Mask
+    2300148: 25PC-stl_001
+    2300150: 25PC-stl_002
+    2300152: 25PC-stl_003
+    2300154: 37PC-internal-mesh_001
+    2300156: MasterCollider_001
+    2300158: MasterCollider_002
+    2300160: MasterCollider_003
+    2300162: MasterCollider_004
+    2300164: MasterCollider_005
+    2300166: MasterCollider_006
+    2300168: SeatPassenger_001
     3300000: 18CB
     3300002: 18CD-Body
     3300004: 18CD-Door1
@@ -542,6 +620,27 @@ ModelImporter:
     3300122: SeatPassenger
     3300124: SeatPassenger1
     3300126: 37PC-DM
+    3300128: mesh
+    3300130: Collider1
+    3300132: Collider2
+    3300134: Collider3
+    3300136: Collider4
+    3300138: Collider5
+    3300140: Collider6
+    3300142: MasterCollider
+    3300144: Mesh_001
+    3300146: 25PC-Mask
+    3300148: 25PC-stl_001
+    3300150: 25PC-stl_002
+    3300152: 25PC-stl_003
+    3300154: 37PC-internal-mesh_001
+    3300156: MasterCollider_001
+    3300158: MasterCollider_002
+    3300160: MasterCollider_003
+    3300162: MasterCollider_004
+    3300164: MasterCollider_005
+    3300166: MasterCollider_006
+    3300168: SeatPassenger_001
     4300000: 18CB
     4300002: 18PC-STL
     4300004: mesh_collider_021
@@ -606,6 +705,27 @@ ModelImporter:
     4300122: BodyMesh
     4300124: BodyMesh_collider
     4300126: 37PC-DM
+    4300128: mesh
+    4300130: Collider6
+    4300132: Collider5
+    4300134: Collider4
+    4300136: Collider3
+    4300138: Collider2
+    4300140: Collider1
+    4300142: MasterCollider
+    4300144: Mesh_001
+    4300146: 25PC-stl_003
+    4300148: 25PC-stl_002
+    4300150: 37PC-internal-mesh_001
+    4300152: 25PC-Mask
+    4300154: 25PC-stl_001
+    4300156: SeatPassenger_001
+    4300158: MasterCollider_006
+    4300160: MasterCollider_005
+    4300162: MasterCollider_004
+    4300164: MasterCollider_003
+    4300166: MasterCollider_002
+    4300168: MasterCollider_001
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
