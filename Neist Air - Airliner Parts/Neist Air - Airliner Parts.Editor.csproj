@@ -311,6 +311,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Editor\KSPCurveEditor.cs" />
     <Compile Include="Assets\PartTools\Editor\InternalSpaceEditor.cs" />
     <Compile Include="Assets\PartTools\Editor\KSPParticleEmitterEditor.cs" />
     <Compile Include="Assets\PartTools\Editor\PartToolsEditor.cs" />

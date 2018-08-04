@@ -15,6 +15,25 @@ ModelImporter:
     100014: CF6Main
     100016: FanBladeRotaionAngle
     100018: StrutRotationAngle
+    100020: CF6-core
+    100022: CF6-FrontCowl
+    100024: CF6-Body
+    100026: CF6-Brace_001
+    100028: CF6-core_001
+    100030: CF6-CoreCollider
+    100032: CF6-CowlCollider
+    100034: CF6-Fan
+    100036: CF6-FanBlades_001
+    100038: CF6-Flag
+    100040: CF6-Flag2
+    100042: CF6-Flag3
+    100044: CF6-FrontCowl_001
+    100046: CF6-Main-FanHub_001
+    100048: CF6-RearCowl_001
+    100050: Source
+    100052: Pylon1
+    100054: CF6-FrontCowl_000
+    100056: L-1011-Adapter
     400000: //RootNode
     400002: CF6-80_v4
     400004: CF6-Brace
@@ -25,8 +44,31 @@ ModelImporter:
     400014: CF6Main
     400016: FanBladeRotaionAngle
     400018: StrutRotationAngle
+    400020: CF6-core
+    400022: CF6-FrontCowl
+    400024: CF6-Body
+    400026: CF6-Brace_001
+    400028: CF6-core_001
+    400030: CF6-CoreCollider
+    400032: CF6-CowlCollider
+    400034: CF6-Fan
+    400036: CF6-FanBlades_001
+    400038: CF6-Flag
+    400040: CF6-Flag2
+    400042: CF6-Flag3
+    400044: CF6-FrontCowl_001
+    400046: CF6-Main-FanHub_001
+    400048: CF6-RearCowl_001
+    400050: Source
+    400052: Pylon1
+    400054: CF6-FrontCowl_000
+    400056: L-1011-Adapter
     2100000: unnamed
     2100002: None__TT_checker_512x512_UV_GRID
+    2100004: Material_001__textureatlas_ao_legacyClosed
+    2100006: Material_001
+    2100008: Flag
+    2100010: Material_001__TextureAtlas
     2300000: CF6-80_v4
     2300002: CF6-Brace
     2300004: CF6-FanBlades
@@ -34,6 +76,24 @@ ModelImporter:
     2300008: CF6-Main-FanHub
     2300010: CF6-RearCowl
     2300012: CF6Main
+    2300014: CF6-core
+    2300016: CF6-FrontCowl
+    2300018: CF6-Body
+    2300020: CF6-Brace_001
+    2300022: CF6-core_001
+    2300024: CF6-CoreCollider
+    2300026: CF6-CowlCollider
+    2300028: CF6-Fan
+    2300030: CF6-FanBlades_001
+    2300032: CF6-Flag
+    2300034: CF6-Flag2
+    2300036: CF6-Flag3
+    2300038: CF6-FrontCowl_001
+    2300040: CF6-Main-FanHub_001
+    2300042: CF6-RearCowl_001
+    2300044: Pylon1
+    2300046: CF6-FrontCowl_000
+    2300048: L-1011-Adapter
     3300000: CF6-80_v4
     3300002: CF6-Brace
     3300004: CF6-FanBlades
@@ -41,6 +101,24 @@ ModelImporter:
     3300008: CF6-Main-FanHub
     3300010: CF6-RearCowl
     3300012: CF6Main
+    3300014: CF6-core
+    3300016: CF6-FrontCowl
+    3300018: CF6-Body
+    3300020: CF6-Brace_001
+    3300022: CF6-core_001
+    3300024: CF6-CoreCollider
+    3300026: CF6-CowlCollider
+    3300028: CF6-Fan
+    3300030: CF6-FanBlades_001
+    3300032: CF6-Flag
+    3300034: CF6-Flag2
+    3300036: CF6-Flag3
+    3300038: CF6-FrontCowl_001
+    3300040: CF6-Main-FanHub_001
+    3300042: CF6-RearCowl_001
+    3300044: Pylon1
+    3300046: CF6-FrontCowl_000
+    3300048: L-1011-Adapter
     4300000: CF6-Brace
     4300002: CF6-FanBlades
     4300004: CF6-Main-FanHub
@@ -48,11 +126,29 @@ ModelImporter:
     4300008: CF6-FronCowl_core
     4300010: CF6Main
     4300012: CF6-80_v4
+    4300014: CF6-core
+    4300016: CF6-FrontCowl
+    4300018: CF6-CowlCollider
+    4300020: CF6-CoreCollider
+    4300022: CF6-Flag3
+    4300024: CF6-Fan
+    4300026: CF6-Body
+    4300028: CF6-Flag2
+    4300030: CF6-Flag
+    4300032: CF6-core_001
+    4300034: CF6-RearCowl_001
+    4300036: CF6-Main-FanHub_001
+    4300038: CF6-FrontCowl_001
+    4300040: CF6-Brace_001
+    4300042: CF6-FanBlades_001
+    4300044: Pylon1
+    4300046: L-1011-Adapter
+    4300048: CF6-FrontCowl_000
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -105,7 +201,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
@@ -121,10 +217,10 @@ ModelImporter:
     rootMotionBoneName: 
     rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
