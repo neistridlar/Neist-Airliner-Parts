@@ -231,6 +231,49 @@ ModelImporter:
     100446: MasterCollider_005
     100448: MasterCollider_006
     100450: SeatPassenger_001
+    100452: 37PD-Body
+    100454: 37PD-Door
+    100456: mesh_collider_001
+    100458: mesh_collider_002
+    100460: mesh_collider_003
+    100462: mesh_collider_004
+    100464: mesh_collider_005
+    100466: mesh_collider_006
+    100468: mesh_collider_007
+    100470: mesh_collider_008
+    100472: mesh_collider_009
+    100474: mesh_collider_010
+    100476: 37PDCollider
+    100478: 37PDCollider_001
+    100480: 37PDCollider_002
+    100482: 37PDCollider_003
+    100484: Mesh-Body_001
+    100486: Mesh-Door3
+    100488: 25CB-colliderMaster_001
+    100490: 25CB-colliderMaster_002
+    100492: 25CB-colliderMaster_003
+    100494: 25CB-colliderMaster_004
+    100496: 25CB-colliderMaster_005
+    100498: 25CB-colliderMaster_006
+    100500: 25CB-colliderMaster_007
+    100502: 25CB-colliderMaster_008
+    100504: 25CB-colliderMaster_009
+    100506: 25CB-colliderMaster_010
+    100508: 25CB-colliderMaster_011
+    100510: 25CB-mesh_001
+    100512: 25CB_001
+    100514: 25PD
+    100516: 25PD-collider1
+    100518: 25PD-collider2
+    100520: 25PD-collider3
+    100522: 25PD-collider4
+    100524: 25PD-collider5
+    100526: 25PD-colliderMaster
+    100528: 25PD-mesh_002
+    100530: 25PD-mesh_000
+    100532: 25PD-collider6
+    100534: 25PD-collider7
+    100536: 25PD-collider8
     400000: 18CB
     400002: 18CD
     400004: 18CD-Body
@@ -457,6 +500,49 @@ ModelImporter:
     400446: MasterCollider_005
     400448: MasterCollider_006
     400450: SeatPassenger_001
+    400452: 37PD-Body
+    400454: 37PD-Door
+    400456: mesh_collider_001
+    400458: mesh_collider_002
+    400460: mesh_collider_003
+    400462: mesh_collider_004
+    400464: mesh_collider_005
+    400466: mesh_collider_006
+    400468: mesh_collider_007
+    400470: mesh_collider_008
+    400472: mesh_collider_009
+    400474: mesh_collider_010
+    400476: 37PDCollider
+    400478: 37PDCollider_001
+    400480: 37PDCollider_002
+    400482: 37PDCollider_003
+    400484: Mesh-Body_001
+    400486: Mesh-Door3
+    400488: 25CB-colliderMaster_001
+    400490: 25CB-colliderMaster_002
+    400492: 25CB-colliderMaster_003
+    400494: 25CB-colliderMaster_004
+    400496: 25CB-colliderMaster_005
+    400498: 25CB-colliderMaster_006
+    400500: 25CB-colliderMaster_007
+    400502: 25CB-colliderMaster_008
+    400504: 25CB-colliderMaster_009
+    400506: 25CB-colliderMaster_010
+    400508: 25CB-colliderMaster_011
+    400510: 25CB-mesh_001
+    400512: 25CB_001
+    400514: 25PD
+    400516: 25PD-collider1
+    400518: 25PD-collider2
+    400520: 25PD-collider3
+    400522: 25PD-collider4
+    400524: 25PD-collider5
+    400526: 25PD-colliderMaster
+    400528: 25PD-mesh_002
+    400530: 25PD-mesh_000
+    400532: 25PD-collider6
+    400534: 25PD-collider7
+    400536: 25PD-collider8
     2100000: unnamed
     2100002: Material_002
     2100004: 31PC-External__31PC-Texture_png
@@ -556,6 +642,47 @@ ModelImporter:
     2300164: MasterCollider_005
     2300166: MasterCollider_006
     2300168: SeatPassenger_001
+    2300170: 37PD-Body
+    2300172: 37PD-Door
+    2300174: mesh_collider_001
+    2300176: mesh_collider_002
+    2300178: mesh_collider_003
+    2300180: mesh_collider_004
+    2300182: mesh_collider_005
+    2300184: mesh_collider_006
+    2300186: mesh_collider_007
+    2300188: mesh_collider_008
+    2300190: mesh_collider_009
+    2300192: mesh_collider_010
+    2300194: 37PDCollider
+    2300196: 37PDCollider_001
+    2300198: 37PDCollider_002
+    2300200: 37PDCollider_003
+    2300202: Mesh-Body_001
+    2300204: Mesh-Door3
+    2300206: 25CB-colliderMaster_001
+    2300208: 25CB-colliderMaster_002
+    2300210: 25CB-colliderMaster_003
+    2300212: 25CB-colliderMaster_004
+    2300214: 25CB-colliderMaster_005
+    2300216: 25CB-colliderMaster_006
+    2300218: 25CB-colliderMaster_007
+    2300220: 25CB-colliderMaster_008
+    2300222: 25CB-colliderMaster_009
+    2300224: 25CB-colliderMaster_010
+    2300226: 25CB-colliderMaster_011
+    2300228: 25CB-mesh_001
+    2300230: 25PD-collider1
+    2300232: 25PD-collider2
+    2300234: 25PD-collider3
+    2300236: 25PD-collider4
+    2300238: 25PD-collider5
+    2300240: 25PD-colliderMaster
+    2300242: 25PD-mesh_002
+    2300244: 25PD-mesh_000
+    2300246: 25PD-collider6
+    2300248: 25PD-collider7
+    2300250: 25PD-collider8
     3300000: 18CB
     3300002: 18CD-Body
     3300004: 18CD-Door1
@@ -641,6 +768,47 @@ ModelImporter:
     3300164: MasterCollider_005
     3300166: MasterCollider_006
     3300168: SeatPassenger_001
+    3300170: 37PD-Body
+    3300172: 37PD-Door
+    3300174: mesh_collider_001
+    3300176: mesh_collider_002
+    3300178: mesh_collider_003
+    3300180: mesh_collider_004
+    3300182: mesh_collider_005
+    3300184: mesh_collider_006
+    3300186: mesh_collider_007
+    3300188: mesh_collider_008
+    3300190: mesh_collider_009
+    3300192: mesh_collider_010
+    3300194: 37PDCollider
+    3300196: 37PDCollider_001
+    3300198: 37PDCollider_002
+    3300200: 37PDCollider_003
+    3300202: Mesh-Body_001
+    3300204: Mesh-Door3
+    3300206: 25CB-colliderMaster_001
+    3300208: 25CB-colliderMaster_002
+    3300210: 25CB-colliderMaster_003
+    3300212: 25CB-colliderMaster_004
+    3300214: 25CB-colliderMaster_005
+    3300216: 25CB-colliderMaster_006
+    3300218: 25CB-colliderMaster_007
+    3300220: 25CB-colliderMaster_008
+    3300222: 25CB-colliderMaster_009
+    3300224: 25CB-colliderMaster_010
+    3300226: 25CB-colliderMaster_011
+    3300228: 25CB-mesh_001
+    3300230: 25PD-collider1
+    3300232: 25PD-collider2
+    3300234: 25PD-collider3
+    3300236: 25PD-collider4
+    3300238: 25PD-collider5
+    3300240: 25PD-colliderMaster
+    3300242: 25PD-mesh_002
+    3300244: 25PD-mesh_000
+    3300246: 25PD-collider6
+    3300248: 25PD-collider7
+    3300250: 25PD-collider8
     4300000: 18CB
     4300002: 18PC-STL
     4300004: mesh_collider_021
@@ -726,11 +894,52 @@ ModelImporter:
     4300164: MasterCollider_003
     4300166: MasterCollider_002
     4300168: MasterCollider_001
+    4300170: mesh_collider_001
+    4300172: mesh_collider_002
+    4300174: mesh_collider_003
+    4300176: mesh_collider_004
+    4300178: mesh_collider_005
+    4300180: mesh_collider_006
+    4300182: mesh_collider_007
+    4300184: mesh_collider_008
+    4300186: mesh_collider_009
+    4300188: mesh_collider_010
+    4300190: 37PD-Door
+    4300192: 37PD-Body
+    4300194: 37PDCollider_003
+    4300196: 37PDCollider_002
+    4300198: 37PDCollider_001
+    4300200: 37PDCollider
+    4300202: Mesh-Door3
+    4300204: Mesh-Body_001
+    4300206: 25PD-collider5
+    4300208: 25PD-collider4
+    4300210: 25PD-collider3
+    4300212: 25PD-collider2
+    4300214: 25PD-collider1
+    4300216: 25PD-colliderMaster
+    4300218: 25PD-mesh_002
+    4300220: 25CB-mesh_001
+    4300222: 25CB-colliderMaster_011
+    4300224: 25CB-colliderMaster_010
+    4300226: 25CB-colliderMaster_009
+    4300228: 25CB-colliderMaster_008
+    4300230: 25CB-colliderMaster_007
+    4300232: 25CB-colliderMaster_006
+    4300234: 25CB-colliderMaster_005
+    4300236: 25CB-colliderMaster_004
+    4300238: 25CB-colliderMaster_003
+    4300240: 25CB-colliderMaster_002
+    4300242: 25CB-colliderMaster_001
+    4300244: 25PD-mesh_000
+    4300246: 25PD-collider8
+    4300248: 25PD-collider6
+    4300250: 25PD-collider7
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -783,7 +992,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
