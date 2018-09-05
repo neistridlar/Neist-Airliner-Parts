@@ -16,6 +16,8 @@ ModelImporter:
     100016: 25B76-Collider
     100018: 25B76-Depthmask
     100020: 25B76-Flag
+    100022: Circle
+    100024: Circle_001
     400000: //RootNode
     400002: 25B76-Body
     400004: 25B76-Windows
@@ -27,6 +29,8 @@ ModelImporter:
     400016: 25B76-Collider
     400018: 25B76-Depthmask
     400020: 25B76-Flag
+    400022: Circle
+    400024: Circle_001
     2100000: unnamed
     2100002: SeatTexture
     2100004: Material
@@ -41,6 +45,8 @@ ModelImporter:
     2300014: 25B76-Collider
     2300016: 25B76-Depthmask
     2300018: 25B76-Flag
+    2300020: Circle
+    2300022: Circle_001
     3300000: 25B76-Body
     3300002: 25B76-Windows
     3300004: B767
@@ -51,6 +57,8 @@ ModelImporter:
     3300014: 25B76-Collider
     3300016: 25B76-Depthmask
     3300018: 25B76-Flag
+    3300020: Circle
+    3300022: Circle_001
     4300000: Plane
     4300002: 25B76-Body
     4300004: B767
@@ -61,6 +69,8 @@ ModelImporter:
     4300014: 25B76-Collider
     4300016: 25B76-Depthmask
     4300018: 25B76-Flag
+    4300020: Circle_001
+    4300022: Circle
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
