@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 2521052aca1ec8649b35a58f01588139
+timeCreated: 1535906051
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 25CS22-Mesh
+    100004: 25CS22-NCS
+    100006: 25CS22-NCS-stl
+    100008: 25CS22-stl
+    100010: 25CS22-Windows
+    100012: 25CS22-Windows_001
+    100014: 25CD22-Collider
+    100016: Circle
+    100018: 25CD22-NCS-Collider
+    100020: Cube
+    100022: 25CS22-Flag
+    100024: 25B73-NCS
+    400000: //RootNode
+    400002: 25CS22-Mesh
+    400004: 25CS22-NCS
+    400006: 25CS22-NCS-stl
+    400008: 25CS22-stl
+    400010: 25CS22-Windows
+    400012: 25CS22-Windows_001
+    400014: 25CD22-Collider
+    400016: Circle
+    400018: 25CD22-NCS-Collider
+    400020: Cube
+    400022: 25CS22-Flag
+    400024: 25B73-NCS
+    2100000: Material__25CS22Texture
+    2100002: Material_001__25CS22Texture
+    2100004: Material_001__12NCS-Texture-2_png
+    2100006: unnamed
+    2100008: None__CheckerBoardFlag_png
+    2100010: Material_001__TextureAtlas2
+    2100012: Material_002__TextureAtlas2
+    2100014: Material__TextureAtlas
+    2100016: Material_001__TextureAtlas
+    2300000: 25CS22-Mesh
+    2300002: 25CS22-NCS
+    2300004: 25CS22-NCS-stl
+    2300006: 25CS22-stl
+    2300008: 25CS22-Windows
+    2300010: 25CS22-Windows_001
+    2300012: 25CD22-Collider
+    2300014: Circle
+    2300016: 25CD22-NCS-Collider
+    2300018: Cube
+    2300020: 25CS22-Flag
+    2300022: 25B73-NCS
+    3300000: 25CS22-Mesh
+    3300002: 25CS22-NCS
+    3300004: 25CS22-NCS-stl
+    3300006: 25CS22-stl
+    3300008: 25CS22-Windows
+    3300010: 25CS22-Windows_001
+    3300012: 25CD22-Collider
+    3300014: Circle
+    3300016: 25CD22-NCS-Collider
+    3300018: Cube
+    3300020: 25CS22-Flag
+    3300022: 25B73-NCS
+    4300000: 25CS22-Windows_001
+    4300002: 25CS22-Windows
+    4300004: 25CS22-Mesh
+    4300006: 25CS22-NCS
+    4300008: 25CS22-NCS-stl
+    4300010: 25CS22-stl
+    4300012: Circle
+    4300014: 25CD22-Collider
+    4300016: 25CD22-NCS-Collider
+    4300018: Cube
+    4300020: 25CS22-Flag
+    4300022: 25B73-NCS
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
