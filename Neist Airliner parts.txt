@@ -11,6 +11,7 @@ Future parts:
 		PW6000 - 0.9375 -ISP 10500 thrust 90kn
 		PW150 -0.625m -ISP 13700 thrust 140kn? speed 190m/s power 3700kW
 		Turbomeca Astazou -0.3125m -ISP 11200 thrust 32 speed 125m/s power 440kW
+		TwinWasp - 0.9375m - ISP 4000 1,500kw. 3m prop
 	Cockpits:
 		TU-154? 2.5m
 		A380 3.75->5m
