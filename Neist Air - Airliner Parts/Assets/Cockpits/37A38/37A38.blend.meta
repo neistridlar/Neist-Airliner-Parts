@@ -38,6 +38,8 @@ ModelImporter:
     2100004: None__CheckerBoardFlag_png
     2100006: None__TT_checker_1024x2048_COLOR_GRID
     2100008: Material_001__TT_checker_512x512_COLOR_GRID
+    2100010: Material_002__TT_checker_1024x2048_COLOR_GRID
+    2100012: Material__TextureAtlas
     2300000: 37A38-Body
     2300002: 37A38-Collider
     2300004: 37A38-FlagTransform
