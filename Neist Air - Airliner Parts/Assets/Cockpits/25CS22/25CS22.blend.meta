@@ -18,6 +18,9 @@ ModelImporter:
     100020: Cube
     100022: 25CS22-Flag
     100024: 25B73-NCS
+    100026: 25CS22-IVA
+    100028: Kerbal
+    100030: SeatPassenger
     400000: //RootNode
     400002: 25CS22-Mesh
     400004: 25CS22-NCS
@@ -31,6 +34,9 @@ ModelImporter:
     400020: Cube
     400022: 25CS22-Flag
     400024: 25B73-NCS
+    400026: 25CS22-IVA
+    400028: Kerbal
+    400030: SeatPassenger
     2100000: Material__25CS22Texture
     2100002: Material_001__25CS22Texture
     2100004: Material_001__12NCS-Texture-2_png
@@ -40,6 +46,8 @@ ModelImporter:
     2100012: Material_002__TextureAtlas2
     2100014: Material__TextureAtlas
     2100016: Material_001__TextureAtlas
+    2100018: SeatTexture
+    2100020: Material_003
     2300000: 25CS22-Mesh
     2300002: 25CS22-NCS
     2300004: 25CS22-NCS-stl
@@ -52,6 +60,9 @@ ModelImporter:
     2300018: Cube
     2300020: 25CS22-Flag
     2300022: 25B73-NCS
+    2300024: 25CS22-IVA
+    2300026: Kerbal
+    2300028: SeatPassenger
     3300000: 25CS22-Mesh
     3300002: 25CS22-NCS
     3300004: 25CS22-NCS-stl
@@ -64,6 +75,9 @@ ModelImporter:
     3300018: Cube
     3300020: 25CS22-Flag
     3300022: 25B73-NCS
+    3300024: 25CS22-IVA
+    3300026: Kerbal
+    3300028: SeatPassenger
     4300000: 25CS22-Windows_001
     4300002: 25CS22-Windows
     4300004: 25CS22-Mesh
@@ -76,6 +90,9 @@ ModelImporter:
     4300018: Cube
     4300020: 25CS22-Flag
     4300022: 25B73-NCS
+    4300024: 25CS22-IVA
+    4300026: SeatPassenger
+    4300028: Kerbal
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
